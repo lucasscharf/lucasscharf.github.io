@@ -43,3 +43,4 @@ Aqui está uma lista sobre alguns assuntos que pretendo falar. Sintam-se livres 
 |Criando um eventbus com quarkus| Quarkus/ Java|
 |Reflexão sobre o problema da arquitetura se afastar do desenvolvimento de software | Arquitetura/Design|
 |O que é o LaTeX e como usá-lo?| Carreira|
+|Como programar post com Jekyll e Github Actions| Carreira|
