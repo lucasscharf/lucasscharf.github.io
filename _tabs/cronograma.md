@@ -20,7 +20,7 @@ Aqui está uma lista sobre alguns assuntos que pretendo falar. Sintam-se livres 
 |Como fazer para aprender algo novo | Carreira |
 |skills mais importantes para ser um mentor, de acordo com as 10 pessoas que me seguem | Carreira | 
 | Como criar um blog usando github Pages | Carreira |
-| [A hora de começar a dividir conhecimento é agora](./_posts/2023-05-26-compartilhe-agora.md) | Carreira |
+| A hora de começar a dividir conhecimento é agora| Carreira |
 | Skills importantes para ir de Dev Jr para Dev pleno | Carreira |
 | Mandando e-mail com quarkus | Quarkus/Java|
 |Como começar um projeto do zero com quarkus | Quarkus/Java|

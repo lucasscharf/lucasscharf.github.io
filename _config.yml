@@ -20,10 +20,10 @@ timezone: America/Sao_Paulo
 
 title: Códigos Aleatórios # the main title
 
-tagline: Programação, reflexões e muito aprendizado # it will display as the sub-title
+tagline: Reflexões sobre programação, carreira e muitos tutoriais # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Venha acompanhar essa jornada em busca de novos aprendizados e programação
+  Reflexões sobre programação, carreira e muitos tutoriais
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://aleatorio.dev.br"
