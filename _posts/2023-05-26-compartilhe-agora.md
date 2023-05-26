@@ -1,7 +1,5 @@
 ---
 title: Hello world!
-categories: []
+categories: [Carreira]
 tags: []
 ---
-
-Olá mundo!
