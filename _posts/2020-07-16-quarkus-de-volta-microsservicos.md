@@ -53,7 +53,7 @@ Segue abaixo o resumo da execução dos serviços e do quanto de memória foi co
 
 Para facilitar o entendimento, os dados foram colocados em uma tabela.
 
-{% gist https://gist.github.com/lucasscharf/8929c5c4dba80b7eb69e4a9d154cddf6 %}
+![Alt Text](/images/performance_quarkus_native.png)
 
 Quarkus levou a melhor tanto no fato de consumir menos recurso quanto no tempo necessário para ficar pronto para receber as conexões. Notem que quando é usado o modo nativo, o tempo cai de 2.802s para 0.006s.
 
