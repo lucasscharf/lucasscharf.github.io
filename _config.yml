@@ -1,5 +1,7 @@
 # The Site Configuration
 
+gems: [jekyll-gist]
+
 # Import the theme
 theme: jekyll-theme-chirpy
 
