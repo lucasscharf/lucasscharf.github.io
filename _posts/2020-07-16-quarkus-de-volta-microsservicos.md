@@ -1,7 +1,7 @@
 ---
 Quarkus trazendo o Java de volta para a briga dos microsserviços
 categories: [Java, Quarkus]
-tags: [Java, Quarkus, GraalMV, Microsserviços]
+tags: [Java, Quarkus, GraalMV, Microsservicos]
 ---
 
 Estamos no ano de 2020. Java completa 25 anos e permanece como uma das linguagens de programação mais utilizadas do mundo segundo o [TIOBE](https://www.tiobe.com/tiobe-index/). 
@@ -18,7 +18,7 @@ Para tentar resolver esse problema nos últimos tempos surgiu um novo competidor
 
 Nesse artigo, vamos comparar os tamanhos e tempo de start-up entre o Quarkus com o principal framework de desenvolvimento Java: [Spring](https://spring.io/).
 
-#Plano de Ação
+# Plano de Ação
 
 Será implementado um microsserviço com um único *endpoint* que responde com a string "Hello world!". Esse microsserviço rodará num container e será analisado tanto tempo para a aplicação incializar quanto o recurso consumido.
 
@@ -33,7 +33,7 @@ O modelo padrão não vem com nenhum controller, então foi escrito um. O contro
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/zpq5yclqtxn0avag7uzk.png)
 
-#Gerando código Quarkus
+# Gerando código Quarkus
 Quarkus também possui o seu gerador que pode ser acessado em http://code.quarkus.io. Foi selecionado apenas o plugin para comunicação REST (que é obrigatório ser selecionado). O  código foi criado com a seguinte árvore.
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/jhralw47cmrc5b75cpp2.png)
@@ -44,7 +44,7 @@ O modelo padrão já vem com um controller que faz o hello world e que ficou ass
 
 Agora que já vimos como eles são, gerar as imagens docker. Foram usadas as imagens base *openjdk:8-jre-slim* ou *openjdk:11-jre-slim* nos testes.
 
-#Resultado final
+# Resultado final
 Segue abaixo o resumo da execução dos serviços e do quanto de memória foi consumido.
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/c99320ni0er73a11qmq9.png)
