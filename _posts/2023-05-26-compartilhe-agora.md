@@ -1,7 +1,7 @@
 ---
 title: A hora de começar a dividir conhecimento é agora!
 categories: [Carreira]
-tags: [compartilhar conhecimento]
+tags: [Compartilhar Conhecimento]
 ---
 
 Não importa o qual raso ou o quão profundo seja o material criado sempre irá ajudar as pessoas.
