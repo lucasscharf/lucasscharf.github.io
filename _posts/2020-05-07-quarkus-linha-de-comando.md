@@ -1,7 +1,7 @@
 ---
 title: Usando o Quarkus como como uma aplicação de linha de comando!
 categories: [Java, Quarkus]
-tags: [java, quarkus]
+tags: [Java, Quarkus]
 ---
 
 Apesar de ser um grande framework para desenvolvimento WEB, desenvolver pequenos programas com Quarkus era uma tarefa complicada e cheia de g̶a̶m̶b̶i̶a̶r̶r̶a̶s̶ soluções alternativas. Afinal, o Quarkus era apenas um framework para desenvolvimento WEB. 
