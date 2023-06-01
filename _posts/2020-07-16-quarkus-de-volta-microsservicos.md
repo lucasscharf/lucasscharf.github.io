@@ -1,7 +1,7 @@
 ---
 title: Quarkus trazendo o Java de volta para a briga dos microsserviços
 categories: [Java, Quarkus]
-tags: [Java, Quarkus, GraalMV, Microsservicos]
+tags: [Java, Quarkus, GraalVM, Microsservicos]
 ---
 
 Estamos no ano de 2020. Java completa 25 anos e permanece como uma das linguagens de programação mais utilizadas do mundo segundo o [TIOBE](https://www.tiobe.com/tiobe-index/). 
