@@ -9,6 +9,9 @@ Durante o início da carreira na área de TI, é comum nos sentirmos perdidos di
 ### [Cafeína Vagas](https://t.me/CafeinaVagas)
 É um grupo do telegram mantido por voluntários onde postam vagas de estágio e vagas para jrs. Todas as vagas são bem detalhadas e é bem fácil de conseguir se achar por lá.
 
+### [Vagas para os Estagiários e Juninhos (as) Tecnologia](https://www.linkedin.com/groups/9184036/)
+É um grupo privado de linkedin para troca de vagas e oportunidades. (Créditos ao amigo Luiz Fibol pela indicação)
+
 ### [Manifest tech](https://manifestotech.org/)
 O manifesto tech é um manifesto/compromisso assumido por várias empresas com o intuito de trabalhar na formação, capacitação e inclusão de novas pessoas no mundo tech. Olhando os signatários, temos um bom ponto de busca de empresas.
 
