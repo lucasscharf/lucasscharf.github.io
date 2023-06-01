@@ -4,7 +4,7 @@ categories: [Carreira, Júnior]
 tags: [Emprego]
 ---
 
-Durante o começo da carreira na área de TI, nós queremos muito começar a trabalhar, porém ficamos perdidos diante de tantas oportunidades (às vezes diante de tantos nãos). Por isso, preparei uma lista com um monte de lugar que costuma ter vagas de emprego, programas/bootcamps que terminam em contratação e empresas que costumam contratar pessoas que estão em começo de carreira.
+Durante o início da carreira na área de TI, é comum nos sentirmos perdidos diante das diversas oportunidades (e às vezes diante dos vários "nãos") que encontramos. Por isso, preparei uma lista com diversos lugares onde costumam ter vagas de emprego, programas/bootcamps que terminam em contratação e empresas que costumam contratar pessoas em início de carreira.
 
 ### [Cafeína Vagas](https://t.me/CafeinaVagas)
 É um grupo do telegram mantido por voluntários onde postam vagas de estágio e vagas para jrs. Todas as vagas são bem detalhadas e é bem fácil de conseguir se achar por lá.
