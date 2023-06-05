@@ -9,8 +9,35 @@ Durante o início da carreira na área de TI, é comum nos sentirmos perdidos di
 ### [Cafeína Vagas](https://t.me/CafeinaVagas)
 É um grupo do telegram mantido por voluntários onde postam vagas de estágio e vagas para jrs. Todas as vagas são bem detalhadas e é bem fácil de conseguir se achar por lá.
 
+### [Tem Vaga Pra Jr](https://t.me/temvagaprajr)
+Canal do telegram com Vagas para diferentes áreas (Crédito para Daruan Rodrigues e Ingrid Laila)
+
+### [Decola Juninho](https://www.linkedin.com/company/decola-juninho/)
+Projeto do LinkedIn com várias iniciativas e canais com oportunidades usando o WhatsApp. (Crédito para Ingrid Laila, Matheus Lobo)
+
+### [Vagas de dados Junior](https://t.me/vagasdedadosjunior)
+Canal do telegram voltado para a área de dados (Crédito para Ingrid Laila, Felipe Gomes e Luiz Boltura)
+
+### [Vagas Telents Juniors](https://t.me/vagastalentsjuniors)
+Canal do telegram com vagas para diferentes áreas (Crédito para Ingrid Laila, Vinícius França e Luiz Boltura)
+
+### [Sou Júnior](https://www.linkedin.com/company/soujunior/)
+ É um projeto open source que além de vagas também ajuda quem está começando a ter uma experiência prática (Créditos e Texto de Valquíria Oliveira, )
+
 ### [Vagas para os Estagiários e Juninhos (as) Tecnologia](https://www.linkedin.com/groups/9184036/)
 É um grupo privado de linkedin para troca de vagas e oportunidades. (Créditos ao amigo Luiz Fibol pela indicação)
+
+### [Vagas SAP somente Junior e Pleno](https://t.me/Vagas_SAP_Junior)
+Canal do telegram focado para SAP com vagas exclusivas para Jrs e Plenos. (Créditos ao Amigo Luiz Boltura)
+
+### [Vagas para Jr](https://twitter.com/vagasprajr)
+Conta do twitter que divulga várias para jrs.
+
+### [IT Recruiter do fim do mundo](https://twitter.com/ITRecruiterSara)
+"Por aqui temos vagas tech nacionais e  internacionais, além de threads explicativas e piadinhas duvidosas 💜" (Texto do Perfil e créditos ao Luiz Boltura)
+
+### [vide rótulo](https://twitter.com/viderotulo)
+Essa conta do twitter posta um thread toda sexta sobre vagas de Jr e Bootcamp (Texto e créditos a Luiz Boltura)
 
 ### [Manifest tech](https://manifestotech.org/)
 O manifesto tech é um manifesto/compromisso assumido por várias empresas com o intuito de trabalhar na formação, capacitação e inclusão de novas pessoas no mundo tech. Olhando os signatários, temos um bom ponto de busca de empresas.
