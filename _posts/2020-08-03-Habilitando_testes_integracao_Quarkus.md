@@ -8,11 +8,11 @@ Que o [JUnit](https://junit.org/junit5/) é um framework ótimo para testes todo
 
 Antes de seguir, definiremos os conceitos de testes utilizados **nesse** artigo. 
 
-##Teste unitário
+## Teste unitário
 
 É a forma de se testar unidades individuais de código fonte. A unidade individual de uma classe são seus métodos. As dependências da classe tendem ser sobreescritas com [*mocks*](https://site.mockito.org/) afim de isolar corretamente o que queremos testar.
 
-##Teste de integração
+## Teste de integração
 Testes de integração testam diferentes unidades do sistema em conjunto. Nesses testes, mockear certas dependências (como a conexão com o banco de dados ou mensageria) acaba sendo algo ruim, pois são muitas dependências e a tarefa deixa de ser trivial.
 Dessa forma, os testes de integração se dividiram em dois tipos de testes: 
 
@@ -31,7 +31,7 @@ Isso nos traz um problema, durante o desenvolvimento, nem sempre queremos ou pod
 
 ![Alt problemas modermos e soluções modernas](https://dev-to-uploads.s3.amazonaws.com/i/jkz3w3tksxyuqwcdltgd.jpg)
 
-##Desabilitando os testes de integração
+## Desabilitando os testes de integração
 
 O JUnit 5 dá suporte para habilitarmos/desabilitarmos testes em diferentes situações através dos testes condicionais e variáveis de ambiente, como explicado aqui no [Bealdung](https://www.baeldung.com/junit-5-conditional-test-execution). 
 
@@ -120,7 +120,7 @@ Com essa soluação, os testes de integração não irão rodar. Nunca. Never. N
 
 O que fazer caso a gente queira rodar o teste de integração?
 
-##Habilitando testes de integração
+## Habilitando testes de integração
 
 Para habilitar os testes de integração e ele rodar apenas quando quisermos, nós precisamos fazer mais uma alteração no nosso pom.xml. 
 
