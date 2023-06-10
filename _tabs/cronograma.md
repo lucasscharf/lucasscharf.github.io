@@ -15,8 +15,8 @@ Aqui está uma lista sobre alguns assuntos que pretendo falar. Sintam-se livres 
 |Porque o ActiveRecord é um anti Pattern | Arquitetura/Design|
 |Uma reflexão sobre boas práticas de programação | Arquitetura/Design|
 |Como começar a programar Java | Carreira |
-| Um monte de site de onde procurar emprego como iniciante | Carreira |
 | [Um monte de ideia do que programar](/posts/ideias-para-programar/) | Carreira |
+| [Um monte de site de onde procurar emprego como iniciante](/posts/sites-empregos/) | Carreira |
 |Como fazer para aprender algo novo | Carreira |
 |skills mais importantes para ser um mentor, de acordo com as 10 pessoas que me seguem | Carreira | 
 | Como criar um blog usando github Pages | Carreira |
