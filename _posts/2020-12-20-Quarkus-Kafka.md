@@ -1,5 +1,5 @@
 ---
-title: Trabalhando com JPA, Quarkus, Panache e bolo de chocolate
+title: Como usar Kafka num projeto Quarkus
 categories: [Java, Quarkus]
 tags: [Java, Quarkus, Microsservicos]
 ---
