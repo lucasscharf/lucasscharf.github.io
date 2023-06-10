@@ -125,10 +125,10 @@ Fui chamado com a variável: Parâmetro
 
 #Dicas, truques e informações
 
-###O modo de comando já vem por padrão
+### O modo de comando já vem por padrão
 Uma classe feita pelo [gerador do quarkus](http://code.quarkus.io/) tem como dependência o *quarkus-resteasy* que já traz o *quarkus-arc* como dependência transitiva.
 
-###Como fazer uma saída mais limpa
+### Como fazer uma saída mais limpa
 Uma boa aplicação de linha de comando [não fala nada se não tiver nada de surpreendente a dizer](http://www.catb.org/esr/writings/taoup/html/ch01s06.html#id2878450).
 Para retirar os logs colocados é só alterar o arquivo application.proprties e adicionar o seguinte texto.
 
@@ -146,7 +146,7 @@ Sou um serviço injetado que funciona perfeitamente com CDI!
 Fui chamado com a variável: Parâmetro
 ```
 
-###Como passar parâmetros em modo de desenvolvimento
+### Como passar parâmetros em modo de desenvolvimento
 Normalmente, quando desenvolvemos, executamos com o comando **mvn quarkus:dev**. Para passar parâmetros, basta usar o parâmetro **-Dquarkus.args=parâmetro**.
 
 Isso permite *debugar*, traz o *hot reload*, altera o perfil para o dev entre outras coisas. O código o código executando o comando o resultado será mais ou menos o seguinte:
