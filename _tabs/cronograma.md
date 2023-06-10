@@ -44,3 +44,4 @@ Aqui está uma lista sobre alguns assuntos que pretendo falar. Sintam-se livres 
 |Reflexão sobre o problema da arquitetura se afastar do desenvolvimento de software | Arquitetura/Design|
 |O que é o LaTeX e como usá-lo?| Carreira|
 |Como programar post com Jekyll e Github Actions| Carreira|
+|O que são os 12 fatores para o desenvolvimento de softare (com explicações)| Arquitetura/Design|
