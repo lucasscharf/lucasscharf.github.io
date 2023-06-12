@@ -41,6 +41,11 @@ Dos mesmos criadores do link anterior, o desafio aqui é maior. Pediram para ele
 Essa lista fala especialmente sobre python porque já tem o desafio e uma proposta de solução. Mas você pode seguir com a lista da forma que você precisar.
 É uma lista bem interessante que, apesar de dizer que é iniciante, tem uns exercícios bem complexos. O link para acessar está [aqui](https://www.freecodecamp.org/portuguese/news/25-projetos-em-python-para-iniciantes-ideias-faceis-para-comecar-a-programar-em-python).
 
+# Lista de APIs públicas para pessoas que não querem lidar com banco de dados
+
+Essa lista com esse repositório de APIs que são ideais pra pessoas que não querem lidar com banco de dados: https://github.com/public-apis/public-apis.
+Dá pra ter várias ideias de projetos com essas APIs. (sugestão e texto adaptado de [Julia Rezende Alves](https://www.linkedin.com/in/juliarezendealves/)).
+
 # Conclusão
 
 Mandando um banana para o [paradoxo da escolha](https://en.wikipedia.org/wiki/The_Paradox_of_Choice) eu trouxe 685 ideias para programar. Algo muito interessante sobre esses desafios é que podemos resolver cada exercício de várias formas diferentes. Tenho certeza de que qualquer um que fizer todas as listas irá afiar e polir muito suas habilidades como programador.
