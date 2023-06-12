@@ -14,7 +14,7 @@ Feito em 1999 pelo professor Virgílio Vasconcelos Vilela essa apostila já tem 
 
 Você encontra uma cópia para essa lista [aqui](/assets/300ideias.pdf).
 
-# Lista de exercícios do Curso em Vídeo
+# Lista de exercícios com 100 exercícios do Curso em Vídeo
 
 Se existe um lugar no céu para quem ajudou o mundo de programação, esse lugar está reservado a Gustavo Guanabara. Com seu [curso de lógica de programação](https://www.cursoemvideo.com/curso/curso-de-algoritmo/) que é gratuito, didático e direto, Guanabara ensinou várias pessoas a programarem. 
 
@@ -26,3 +26,21 @@ Talvez você prefira ver vídeos ao invés de texto. Se esse for o caminho, tem 
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/H4CCPaYLTWg" frameborder="0"></iframe>
 
+# 80 ideias com App ideias collection
+
+O maior problema dessa lista é que ela está inglês. Porém, nada que o bom e velho traduzir página não resolva. 
+Esse repositório já separa os programas por diferentes níveis (iniciante, intermediário e avançado). Basta ir acessando os links, traduzindo as páginas e fazendo os desafios. 
+
+O link para o repositório está [aqui](https://github.com/florinpop17/app-ideas)
+
+# Desafio de 100 projetos em 100 dias 
+
+Dos mesmos criadores do link anterior, o desafio aqui é maior. Pediram para ele criar 100 projetos de software diferente. Cada projeto é bem mais complexo do que os programas apresentados. Recomendado para quem já está bem mais avançado. A lista com as ideias em inglês, bem como acesso para as implementações estão presentes [aqui](https://www.florin-pop.com/blog/2019/09/100-days-100-projects/).
+
+# 25 projetos em Python para iniciantes
+Essa lista fala especialmente sobre python porque já tem o desafio e uma proposta de solução. Mas você pode seguir com a lista da forma que você precisar.
+É uma lista bem interessante que, apesar de dizer que é iniciante, tem uns exercícios bem complexos. O link para acessar está [aqui](https://www.freecodecamp.org/portuguese/news/25-projetos-em-python-para-iniciantes-ideias-faceis-para-comecar-a-programar-em-python).
+
+# Conclusão
+
+Mandando um banana para o [paradoxo da escolha](https://en.wikipedia.org/wiki/The_Paradox_of_Choice) eu trouxe 685 ideias para programar. Algo muito interessante sobre esses desafios é que podemos resolver cada exercício de várias formas diferentes. Tenho certeza de que qualquer um que fizer todas as listas irá afiar e polir muito suas habilidades como programador.
