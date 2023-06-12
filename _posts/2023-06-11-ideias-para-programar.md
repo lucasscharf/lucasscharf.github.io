@@ -24,5 +24,5 @@ Um dos materiais desse curso é uma lista com 100 ideias de programas diferentes
 
 Talvez você prefira ver vídeos ao invés de texto. Se esse for o caminho, tem esse vídeo do Filipe Descamps com 80 ideias para programar.
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=H4CCPaYLTWg&ab_channel=FilipeDeschamps" frameborder="0"></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/H4CCPaYLTWg" frameborder="0"></iframe>
 
