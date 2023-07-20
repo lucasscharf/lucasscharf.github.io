@@ -42,6 +42,11 @@ Uma das coisas mais incríveis e poderosas do Java são seus vários frameworks 
 
 //TODO colocar mais cursos, de preferência o novo framework de data e java stream
 
+# Pausa
+Aqui é um momento interessante para dar uma pausa nos estudos e praticar bastante. Recomendo fazer os primeiros 300 primeiros exercícios do [compilado de ideias para programar que eu fiz](/_posts/2023-06-11-ideias-para-programar.md). 
+
+Também recomendo fazer um monte de projetinho com interface de linha de comando. Tipo um jogo da velha, um gerenciador de atividades, um sistema de cadastro de alunos e notas. Sabe, colocar a mão na massa. Porque é só assim que você vai ganhar experiência.
+
 # Fase 5: comunicação entre aplicações (sockets, endpoint http, signals)
 Aqui começa-se a estudar um pouco mais sobre sistemas operacionais.
 
