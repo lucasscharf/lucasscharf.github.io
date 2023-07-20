@@ -28,6 +28,9 @@ description: >- # used by seo meta and the atom feed
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://aleatorio.dev.br"
 
+plugins:
+  - jekyll-sitemap
+
 github:
   username: lucasscharf # change to your github username
 
