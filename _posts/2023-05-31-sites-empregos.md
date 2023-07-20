@@ -48,6 +48,9 @@ O manifesto tech é um manifesto/compromisso assumido por várias empresas com o
 ### [Let's code](https://letscode.com.br/processos-seletivos)
 Let's code é um intermediador de curso/contratação para novos devs. Eles trabalham com bolsas onde preparam os alunos para trabalharem nas empresas. De tempos em tempos abrem processos para jrs com zero experiência.
 
+### [Compiladão Open To Work](https://www.linkedin.com/in/ana-flavia-bisaggio-product/)
+Projeto voluntário que consiste em divulgação semanal do Linkedin de profissionais que estão desempregados. Recrutadores e gestores que estão contratando utilizam a planilha com frequência. Para participar, você precisa COMENTAR no post divulgado toda segunda-feira no perfil da Ana Flavia Bisaggio. As inscrições são sempre aceitas até as quartas-feiras às 23h. O post contém todo o detalhamento de como se inscrever e as regras. (Sugestão de várias pessoas e texto da amiga Ana Flávia Bisaggio)
+
 ### [Digital Innovation One Inc.](https://www.dio.me/)
 A DIO lança bootcamps patrocinados por grandes empresas com foco em contratação de pessoas. Basta escolher o evento, a tecnologia e correr para o abraço.
 
