@@ -18,7 +18,7 @@ Aqui está uma lista sobre alguns assuntos que pretendo falar. Sintam-se livres 
 | [Um monte de ideia do que programar](/posts/ideias-para-programar/) | Carreira |
 | [Um monte de site de onde procurar emprego como iniciante](/posts/sites-empregos/) | Carreira |
 |Como fazer para aprender algo novo | Carreira |
-|skills mais importantes para ser um mentor, de acordo com as 10 pessoas que me seguem | Carreira | 
+|Skills mais importantes para ser um mentor | Carreira | 
 | Como criar um blog usando github Pages | Carreira |
 | [A hora de começar a dividir conhecimento é agora](/posts/compartilhe-agora/)| Carreira |
 | Skills importantes para ir de Dev Jr para Dev pleno | Carreira |
@@ -41,9 +41,9 @@ Aqui está uma lista sobre alguns assuntos que pretendo falar. Sintam-se livres 
 |Quarkus e flyway| Java/Quarkus|
 |Quarkus e opentracing | Java/Quarkus|
 |Criando um eventbus com quarkus| Java/Quarkus|
-|Reflexão sobre o problema da arquitetura se afastar do desenvolvimento de software | Arquitetura/Design|
+|O problema da arquitetura se afastar do desenvolvimento de software | Arquitetura/Design|
 |O que é o LaTeX e como usá-lo?| Carreira|
 |Como programar post com Jekyll e Github Actions| Carreira|
-|O que são os 12 fatores para o desenvolvimento de softare (com explicações)| Arquitetura/Design|
+|O que são os 12 fatores para o desenvolvimento de softare | Arquitetura/Design|
 |O que são indícies GIN e como usar| Banco de Dados/PostgreSQL|
 |[	Vale a pena fazer mestrado na área de TI?](/posts/vale-a-pena-mestrado/)| Carreira|
