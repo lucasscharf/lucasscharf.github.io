@@ -7,11 +7,11 @@ tags: [Ferramentas, git]
 Seja bem vindo a mais uma ~gentil~ introdução ao git. Chegamos ao nosso último post e vamos ver sobre algumas boas práticas para utilizar o git. 
 Caso você queira saber sobre tudo o que nós falamos até agora, basta olhar esse mapa maroto:
 
-* [O que é o GIT e como usar](https://dev.to/lucasscharf/uma-gentil-introducao-ao-git-e-seus-comandos-2lf)
-* [Principais comandos do git](https://dev.to/lucasscharf/alguns-dos-principais-comandos-do-git-3dhd)
-* [Como fazer um rebase de presença](https://dev.to/lucasscharf/como-fazer-um-rebase-de-presenca-2jj7)
-* [Como escrever um README.md](https://dev.to/lucasscharf/como-escrever-um-readme-md-26jj)
-* Boas práticas para utilizar o git ⟵ você está aqui
+* [O que é o GIT e como usar](/posts/introducao-git/)
+* [Principais comandos do git](/posts/principais-comandos-git/)
+* [Como fazer um rebase de presença](/posts/como-fazer-rebase/)
+* [Como escrever um README.md](/posts/como-escrever-readme/)
+* [Boas práticas para utilizar o git](/posts/boas-praticas-git/) **⟵ você está aqui**
 
 
 #Dicas Gerais
@@ -65,6 +65,7 @@ No uma boa mensagem de commit tem o que foi feito, o porque foi feito e o que te
 A primeira linha de um commit serve como título. É ela quem aparecerá dentro das ferramentas e na hora de ler o log. Por isso é importante uma descrição simples do que aquele commit representa (de preferência com menos de 80 caracteres)
 
 # Dicas para bons Pull Requests
+
 ## Fazer vários commits, porém fazer o rebase
 Uma das funções do git é servir de backup remoto. Você pode fazer commits diretos com as tentativas de arrumar um problema, ou mesmo fazer commits todos os dias. Na hora do PR, é só juntar as alterações feitas, descartar o lixo e fazer um ou mais commits relevantes. 
 O mesmo serve para a revisão de código de um PR. Basta ir fazendo as alterações necessárias e depois fazer um rebase para unir tudo com o commit principal. Isso gera uma árvore limpa e fácil de navegar. 

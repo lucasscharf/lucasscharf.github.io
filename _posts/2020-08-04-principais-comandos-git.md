@@ -7,13 +7,15 @@ tags: [Ferramentas, git]
 Seja bem vindo a mais uma ~gentil~ introdução ao git e hoje nós vamos conhecer alguns dos principais comandos que nós usamos. 
 Antes de começar, vamos lembrar do nosso planejamento de posts:
 
-* [O que é o GIT e como usar](https://dev.to/lucasscharf/uma-gentil-introducao-ao-git-e-seus-comandos-2lf)
-* Principais comandos do git  ⟵ você está aqui
-* [Como fazer um rebase de presença](https://dev.to/lucasscharf/como-fazer-um-rebase-de-presenca-2jj7)
-* [Como escrever um README.md](https://dev.to/lucasscharf/como-escrever-um-readme-md-26jj)
-* [Boas práticas para utilizar o git](https://dev.to/lucasscharf/boas-praticas-para-usar-o-git-2e0e)
+* [O que é o GIT e como usar](/posts/introducao-git/)
+* [Principais comandos do git](/posts/principais-comandos-git/) **⟵ você está aqui**
+* [Como fazer um rebase de presença](/posts/como-fazer-rebase/)
+* [Como escrever um README.md](/posts/como-escrever-readme/)
+* [Boas práticas para utilizar o git](/posts/boas-praticas-git/)
 
-#Quais comandos vamos estudar?
+
+
+# Quais comandos vamos estudar?
 Atualmente, o git possui 137 comandos e uma quantidade infinita de parâmetros, configurações, etc...
 Infelizmente, não dá para falar tudo em menos de mil palavras, então selecionei os mais comuns para falar sobre. 
 
