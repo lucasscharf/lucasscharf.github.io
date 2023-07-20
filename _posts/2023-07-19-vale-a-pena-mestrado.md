@@ -1,6 +1,6 @@
 ---
 title: Vale a pena fazer mestrado na área de TI?
-categories: [Carreira, Mestrado]
+categories: [Carreira]
 tags: [Reflexões]
 ---
 

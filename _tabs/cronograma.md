@@ -45,3 +45,5 @@ Aqui está uma lista sobre alguns assuntos que pretendo falar. Sintam-se livres 
 |O que é o LaTeX e como usá-lo?| Carreira|
 |Como programar post com Jekyll e Github Actions| Carreira|
 |O que são os 12 fatores para o desenvolvimento de softare (com explicações)| Arquitetura/Design|
+|O que são indícies GIN e como usar| Banco de Dados/PostgreSQL|
+|[	Vale a pena fazer mestrado na área de TI?](/posts/vale-a-pena-mestrado/)| Carreira|
