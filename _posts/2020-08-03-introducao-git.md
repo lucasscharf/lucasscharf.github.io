@@ -9,7 +9,8 @@ tags: [Ferramentas, git]
 Ao longo de todos esses anos, o git tem ajudado desenvolvedores ao redor do mundo a organizarem seus projetos, fazerem backups, trocarem informações, escreverem livros, montarem blogs, etc... Porém, apesar de ser uma ferramenta tão incrível muita gente acaba usando sem saber exatamente o que tá fazendo, dependendo da IDE e passando por algumas dificuldades sem necessidade. 
 
 E é por isso que eu resolvi fazer uma sequência de posts falando sobre o git e como usar. Esses posts serão divididos nas seguintes partes:
-* O que é o GIT e como usar **⟵ você está aqui**
+
+* [O que é o GIT e como usar](/posts/introducao-git/) **⟵ você está aqui**
 * [Principais comandos do git](/posts/principais-comandos-git/)
 * [Como fazer um rebase de presença](/posts/como-fazer-rebase/)
 * [Como escrever um README.md](/posts/como-escrever-readme/)

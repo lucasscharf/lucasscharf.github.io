@@ -8,11 +8,12 @@ Fala galerinha do barulho, prontos para se meterem em um monte de confusão enqu
 
 Pra você não se perder, segue o nossa mapa maroto:
 
-* [O que é o GIT e como usar](https://dev.to/lucasscharf/uma-gentil-introducao-ao-git-e-seus-comandos-2lf)
-* [Principais comandos do git](https://dev.to/lucasscharf/alguns-dos-principais-comandos-do-git-3dhd)
-* [Como fazer um rebase de presença](https://dev.to/lucasscharf/como-fazer-um-rebase-de-presenca-2jj7)
-* Como escrever um README.md ⟵ você está aqui
-* [Boas práticas para utilizar o git](https://dev.to/lucasscharf/boas-praticas-para-usar-o-git-2e0e)
+* [O que é o GIT e como usar](/posts/introducao-git/)
+* [Principais comandos do git](/posts/principais-comandos-git/)
+* [Como fazer um rebase de presença](/posts/como-fazer-rebase/)
+* [Como escrever um README.md](/posts/como-escrever-readme/) **⟵ você está aqui**
+* [Boas práticas para utilizar o git](/posts/boas-praticas-git/)
+
 
 Já aprendemos [o que é o git](https://dev.to/lucasscharf/uma-gentil-introducao-ao-git-e-seus-comandos-2lf), já aprendemos quais são os [principais comandos](https://dev.to/lucasscharf/alguns-dos-principais-comandos-do-git-3dhd) e até aprendemos [conquistar pessoas nas baladas da vida](https://dev.to/lucasscharf/como-fazer-um-rebase-de-presenca-2jj7) usando o rebase. 
 No episódio de hoje, nós vamos dar um passo além na nossa jornada e aprender a fazer um documento README topzeira.

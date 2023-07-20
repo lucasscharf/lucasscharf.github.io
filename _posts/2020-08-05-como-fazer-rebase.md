@@ -8,11 +8,11 @@ Seja bem vindo a mais uma ~gentil~ introdução ao git. Hoje, nós vamos aprende
 
 Antes de começar, vamos lembrar do nosso planejamento de posts:
 
-* [O que é o GIT e como usar](https://dev.to/lucasscharf/uma-gentil-introducao-ao-git-e-seus-comandos-2lf)
-* [Principais comandos do git](https://dev.to/lucasscharf/alguns-dos-principais-comandos-do-git-3dhd)
-* Como fazer um rebase de presença ⟵ você está aqui
-* [Como escrever um README.md](https://dev.to/lucasscharf/como-escrever-um-readme-md-26jj)
-* [Boas práticas para utilizar o git](https://dev.to/lucasscharf/boas-praticas-para-usar-o-git-2e0e)
+* [O que é o GIT e como usar](/posts/introducao-git/)
+* [Principais comandos do git](/posts/principais-comandos-git/)
+* [Como fazer um rebase de presença](/posts/como-fazer-rebase/) **⟵ você está aqui**
+* [Como escrever um README.md](/posts/como-escrever-readme/)
+* [Boas práticas para utilizar o git](/posts/boas-praticas-git/)
 
 Porque essa é uma introdução bem gentil, vamos dividir o conteúdo sobre nosso *rebase* em algumas partes. O que é uma *branch*? O que é um *rebase* e como ele funciona? Quais são as opções de um *rebase* interativo? Um pequeno exemplo de como fazer um rebase para conquistar o coração daquele pichadão/tchutchuca que tá te filmando e quer ser seu namorado.
 
