@@ -51,7 +51,7 @@ O Github tem uma ferramenta ótima q̶u̶e̶ ̶d̶e̶v̶e̶r̶i̶a̶ ̶s̶e̶r̶
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/t3zwaopl8esqams42upa.gif)
 
-#Dicas para bons *commits*
+# Dicas para bons *commits*
 ## Anotar a issue
 Via de regra, você trabalhará com algum sistema de gestão de atividades/issues/tickets integrado com o seu git. No footer de cada commit, basta indicar a commit issue o commit se refere. Isso adiciona mais rastreabilidade no que foi feito e permite indica o caminho de documentações que não cabem dentro de uma mensagem de commit 
 
@@ -64,7 +64,7 @@ No uma boa mensagem de commit tem o que foi feito, o porque foi feito e o que te
 ## Usar título 
 A primeira linha de um commit serve como título. É ela quem aparecerá dentro das ferramentas e na hora de ler o log. Por isso é importante uma descrição simples do que aquele commit representa (de preferência com menos de 80 caracteres)
 
-#Dicas para bons Pull Requests
+# Dicas para bons Pull Requests
 ## Fazer vários commits, porém fazer o rebase
 Uma das funções do git é servir de backup remoto. Você pode fazer commits diretos com as tentativas de arrumar um problema, ou mesmo fazer commits todos os dias. Na hora do PR, é só juntar as alterações feitas, descartar o lixo e fazer um ou mais commits relevantes. 
 O mesmo serve para a revisão de código de um PR. Basta ir fazendo as alterações necessárias e depois fazer um rebase para unir tudo com o commit principal. Isso gera uma árvore limpa e fácil de navegar. 
