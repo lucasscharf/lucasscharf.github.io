@@ -62,7 +62,7 @@ Uma das coisas mais incríveis e poderosas do Java são seus vários frameworks 
 Aqui começa-se a estudar um pouco mais sobre sistemas operacionais.
 
 # Pausa 2
-Agora você já está mais do que apto a completar os outros exercícios da [grande lista de exercícios]((/posts/ideias-para-programar/)) e até começar a brincar com as APIs dos exercícios mais avançados. Aproveite esse momento para finalizar toda a lista.
+Agora você já está mais do que apto a completar os outros exercícios da [grande lista de exercícios](/posts/ideias-para-programar/) e até começar a brincar com as APIs dos exercícios mais avançados. Aproveite esse momento para finalizar toda a lista.
 
 # Fase 8: Padrões de projeto em camadas (modelo cliente e servidor, mestre/escravo,  mvc, mvvc, etc)
 
