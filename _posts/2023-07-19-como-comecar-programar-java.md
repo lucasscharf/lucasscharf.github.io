@@ -36,7 +36,7 @@ Um erro como comum que devs comentem é usar direto os frameworks sem entender o
 
 Infelizmente, a parte de estrutura de dados é algo que acaba sendo deixado de lado por parte de muitas pessoas que estão começando a programar. 
 
-Porém, se o seu problema for corretamente modelado e utilizado as estruturas corretas, naturalmente a melhor solução aparecerá. A maravilhosa Loiane Groner tem um [curso onde apresenta as principais estruturas de dados e como usá-las em Java](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLERdxi).
+Porém, se o seu problema for corretamente modelado e utilizado as estruturas corretas, naturalmente a melhor solução aparecerá. A maravilhosa Loiane Groner tem um [curso onde apresenta as principais estruturas de dados e como usá-las em Java](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLERdxi). Depois disso, você pode se arriscar a ver esse vídeo sobre estrutura de dados do [Fábio Akita](https://www.youtube.com/watch?v=9GdesxWtOgs).
 
 # Pausa 1
 Aqui é um momento interessante para dar uma pausa nos estudos e praticar bastante. Recomendo fazer os primeiros 400 primeiros exercícios do [compilado de ideias para programar que eu fiz](/posts/ideias-para-programar/). 
