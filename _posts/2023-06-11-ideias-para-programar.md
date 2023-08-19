@@ -43,7 +43,7 @@ Essa lista fala especialmente sobre python porque já tem o desafio e uma propos
 
 # Lista de APIs públicas para pessoas que não querem lidar com banco de dados
 
-Essa lista com esse repositório de APIs que são ideais pra pessoas que não querem lidar com banco de dados: https://github.com/public-apis/public-apis.
+Essa lista com esse repositório de APIs que são ideais pra pessoas que não querem lidar com banco de dados: [https://github.com/public-apis/public-apis].
 Dá pra ter várias ideias de projetos com essas APIs. (sugestão e texto adaptado de [Julia Rezende Alves](https://www.linkedin.com/in/juliarezendealves/)).
 
 # Conclusão
