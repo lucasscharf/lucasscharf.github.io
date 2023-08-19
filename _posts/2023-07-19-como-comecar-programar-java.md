@@ -7,7 +7,7 @@ tags: [Java]
 
 Com grande frequência, várias pessoas vem até o [meu linkedin](https://www.linkedin.com/in/lucasscharf/) perguntando como começar a programar. Por causa disso, resolvi fazer uma trilha com um monte de conteúdo gratuito com o que eu acho que é uma rota bem legal para se seguir e oferecendo cursos e tutoriais gratuitos. Dei prioridade para conteúdos em vídeo porque eu quero. Por uma questão de conhecimento todas as índices de bibliotecas e posts são com Java porque é isso o que eu conheço e porque ninguém me paga pra estudar o C# alheio.
 
-Recomendo que todas as fases desse processo sejam documentadas. Seja num blog, no linkedin ou em qualquer outro meio. Já falei isso antes, mas não custa repetir: [A hora de compartilhar conhecimento é agora](/_posts/compartilhe-agora)
+Recomendo que todas as fases desse processo sejam documentadas. Seja num blog, no linkedin ou em qualquer outro meio. Já falei isso antes, mas não custa repetir: [A hora de compartilhar conhecimento é agora](/posts/compartilhe-agora)
 
 # Fase 0: Lógica de programação
 O primeiro passo para saber programar é estudar lógica de programação. No Brasil, não existe melhor fonte no mundo do que o [curso de lógica de programação](https://www.cursoemvideo.com/curso/curso-de-algoritmo/) do professor Gustavo Guanabara.
@@ -39,7 +39,7 @@ Infelizmente, a parte de estrutura de dados é algo que acaba sendo deixado de l
 Porém, se o seu problema for corretamente modelado e utilizado as estruturas corretas, naturalmente a melhor solução aparecerá. A maravilhosa Loiane Groner tem um [curso onde apresenta as principais estruturas de dados e como usá-las em Java](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLERdxi).
 
 # Pausa 1
-Aqui é um momento interessante para dar uma pausa nos estudos e praticar bastante. Recomendo fazer os primeiros 300 primeiros exercícios do [compilado de ideias para programar que eu fiz](/_posts/ideias-para-programar/). 
+Aqui é um momento interessante para dar uma pausa nos estudos e praticar bastante. Recomendo fazer os primeiros 300 primeiros exercícios do [compilado de ideias para programar que eu fiz](/posts/ideias-para-programar/). 
 
 Também recomendo fazer um monte de projetinho com interface de linha de comando. Tipo um jogo da velha, um gerenciador de atividades, um sistema de cadastro de alunos e notas. Sabe, colocar a mão na massa. Porque é só assim que você vai ganhar experiência.
 
@@ -81,4 +81,4 @@ Para Spring, eu recomendo o curso do YouTube da Loiane Groner de [Spring com Ang
 
 # Pausa Final
  
-Fazendo tudo num ritmo muito bom, você já deve estar programando há mais ou menos um ano e meio. Agora é um momento muito bom para procurar emprego com mais convicção. Se tudo foi feito bem certinho você já estudou mais de 500 horas de programação, contribuiu com a comunidade, já compartilhou seus estudos, já trabalhou em software livre e é um programador Jr totalmente diferenciado. A jornada de estudos não terminou, mas agora a [lista de empresas para procurar vaga está esperando você](/_posts/sites-empregos/). Boa sorte.
+Fazendo tudo num ritmo muito bom, você já deve estar programando há mais ou menos um ano e meio. Agora é um momento muito bom para procurar emprego com mais convicção. Se tudo foi feito bem certinho você já estudou mais de 500 horas de programação, contribuiu com a comunidade, já compartilhou seus estudos, já trabalhou em software livre e é um programador Jr totalmente diferenciado. A jornada de estudos não terminou, mas agora a [lista de empresas para procurar vaga está esperando você](/posts/sites-empregos/). Boa sorte.
