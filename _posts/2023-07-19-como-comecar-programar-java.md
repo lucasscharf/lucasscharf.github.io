@@ -39,7 +39,7 @@ Infelizmente, a parte de estrutura de dados é algo que acaba sendo deixado de l
 Porém, se o seu problema for corretamente modelado e utilizado as estruturas corretas, naturalmente a melhor solução aparecerá. A maravilhosa Loiane Groner tem um [curso onde apresenta as principais estruturas de dados e como usá-las em Java](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLERdxi).
 
 # Pausa 1
-Aqui é um momento interessante para dar uma pausa nos estudos e praticar bastante. Recomendo fazer os primeiros 300 primeiros exercícios do [compilado de ideias para programar que eu fiz](/posts/ideias-para-programar/). 
+Aqui é um momento interessante para dar uma pausa nos estudos e praticar bastante. Recomendo fazer os primeiros 400 primeiros exercícios do [compilado de ideias para programar que eu fiz](/posts/ideias-para-programar/). 
 
 Também recomendo fazer um monte de projetinho com interface de linha de comando. Tipo um jogo da velha, um gerenciador de atividades, um sistema de cadastro de alunos e notas. Sabe, colocar a mão na massa. Porque é só assim que você vai ganhar experiência.
 
@@ -62,7 +62,7 @@ Uma das coisas mais incríveis e poderosas do Java são seus vários frameworks 
 Aqui começa-se a estudar um pouco mais sobre sistemas operacionais.
 
 # Pausa 2
-Agora você já está mais do que apto a completar os outros 700 exercícios da grande lista de exercícios. Aproveite esse momento para poder fazer todos eles
+Agora você já está mais do que apto a completar os outros exercícios da [grande lista de exercícios]((/posts/ideias-para-programar/)) e até começar a brincar com as APIs dos exercícios mais avançados. Aproveite esse momento para finalizar toda a lista.
 
 # Fase 8: Padrões de projeto em camadas (modelo cliente e servidor, mestre/escravo,  mvc, mvvc, etc)
 
@@ -81,4 +81,4 @@ Para Spring, eu recomendo o curso do YouTube da Loiane Groner de [Spring com Ang
 
 # Pausa Final
  
-Fazendo tudo num ritmo muito bom, você já deve estar programando há mais ou menos um ano e meio. Agora é um momento muito bom para procurar emprego com mais convicção. Se tudo foi feito bem certinho você já estudou mais de 500 horas de programação, contribuiu com a comunidade, já compartilhou seus estudos, já trabalhou em software livre e é um programador Jr totalmente diferenciado. A jornada de estudos não terminou, mas agora a [lista de empresas para procurar vaga está esperando você](/posts/sites-empregos/). Boa sorte.
+Fazendo tudo num ritmo muito bom, você já deve estar programando há mais ou menos um ano e meio. Agora é um momento muito bom para procurar emprego com mais convicção. Se tudo foi feito bem certinho você já estudou mais de 500 horas de programação, já fez quase mil exercícios de programação, contribuiu com a comunidade de desenvolvimento, já compartilhou seus estudos, já trabalhou em software livre e é um programador Jr totalmente diferenciado no mercado. A jornada de estudos não terminou, mas agora a [lista de empresas para procurar vaga está esperando você](/posts/sites-empregos/). Boa sorte.
