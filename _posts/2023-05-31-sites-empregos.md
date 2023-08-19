@@ -72,5 +72,9 @@ A NTT Data possui vagas para jrs e estagiários.
 ### [Yaman](https://yaman.com.br/pt-br/)
 A consultoria digital Yaman possui vagas para devs jrs.
 
+### [Minas TI](https://github.com/minas-ti/vagas)
+Este é o nosso espaço dedicado à divulgação de vagas. São bem vindas vagas de estágio, trainee, emprego, freelance, temporários, abrangendo a todas as localidades e todas as áreas de TI. (Texto do site)
+
+
 --- 
 Aproveite a oportunidade pra deixar sua indicação de empresa, canal ou programa para contratação. Prometo ir atualizando essa postagem com novas indicações de locais. 
