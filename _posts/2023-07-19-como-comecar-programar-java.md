@@ -5,9 +5,11 @@ tags: [Java]
 ---
 **Nota: esse post é um rascunho público. Deixei disponível para que as pessoas já possam se beneficiar dele.**
 
-Com grande frequência, várias pessoas vem até o [meu linkedin](https://www.linkedin.com/in/lucasscharf/) perguntando como começar a programar. Por causa disso, resolvi fazer uma trilha com um monte de conteúdo gratuito com o que eu acho que é uma rota bem legal para se seguir e oferecendo cursos e tutoriais gratuitos. Dei prioridade para conteúdos em vídeo porque eu quero. Por uma questão de conhecimento todas as índices de bibliotecas e posts são com Java porque é isso o que eu conheço e porque ninguém me paga pra estudar o C# alheio.
+Com grande frequência, várias pessoas vem até o [meu linkedin](https://www.linkedin.com/in/lucasscharf/) perguntando como começar a programar. Por causa disso, resolvi fazer uma trilha com um monte de conteúdo gratuito com um plano para a pessoa se tornar um programador Júnior diferenciado no mercado. Por uma questão de conhecimento os links são com Java porque é isso o que eu conheço e porque ninguém me paga pra estudar o C# alheio.
 
 Recomendo que todas as fases desse processo sejam documentadas. Seja num blog, no linkedin ou em qualquer outro meio. Já falei isso antes, mas não custa repetir: [A hora de compartilhar conhecimento é agora](/posts/compartilhe-agora)
+
+É importante deixar o disclaimer de que eu nenhum fiz nenhum dos cursos aqui indicados. A seleção deles se deu por base do plano de aula e dos comentários sobre a qualidade deles. Mais improtante do que as dicas dos cursos, é entender a estrutura do plano e adaptar ele para a sua linguagem escolhida.
 
 # Fase 0: Lógica de programação
 O primeiro passo para saber programar é estudar lógica de programação. No Brasil, não existe melhor fonte no mundo do que o [curso de lógica de programação](https://www.cursoemvideo.com/curso/curso-de-algoritmo/) do professor Gustavo Guanabara.
@@ -17,12 +19,12 @@ Depois que você aprendeu o básico sobre escrita de código, desvio condicional
 
 Para Java, o melhor curso que tem também é o curso de Java ([Parte 1](https://www.cursoemvideo.com/curso/java-basico/) e [Parte 2](https://www.cursoemvideo.com/curso/java-poo/)) do Gustavo Guanabara. Ele possui cursos para outras linguagens também. Com um pouco de sorte, o caminho que você vai seguir já tem um curso do Guanabara ou de mesmo nível.
 
-# Fase 2: banco de dados e conexão com o banco
-A menos que seu programa receba todos os dados na inicialização, faça o processamento e entregue os resultados para alguém. Ele vai precisar salvar (no jargao nos chamamos persistir) os dados. A forma mais comum de trabalhar com persistência é através do banco de dados. 
+# Fase 2: Banco de dados e conexão com o banco
+A menos que seu programa receba todos os dados na inicialização, faça o processamento e entregue os resultados para alguém. Ele vai precisar salvar (no jargão nos chamamos persistir) os dados. A forma mais comum de trabalhar com persistência é através do banco de dados. 
 
 Para um dev em começo de carreira, o trabalhar com banco de dados pode ser dividido em 3 partes: modelagem dos dados, SQL e conexão com banco de dados. 
 
-Não achei nenhum curso legal que envolva essas 3 partes. Por isso vou indicar alguns cursos. 
+Como não achei nenhum curso legal que envolva essas 3 partes, vou indicar alguns cursos. 
 
 Para a modelagem, o [curso da Boson Treinamentos](https://youtube.com/playlist?list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD) é bem completo.
 
@@ -43,37 +45,64 @@ Aqui é um momento interessante para dar uma pausa nos estudos e praticar bastan
 
 Também recomendo fazer um monte de projetinho com interface de linha de comando. Tipo um jogo da velha, um gerenciador de atividades, um sistema de cadastro de alunos e notas. Sabe, colocar a mão na massa. Porque é só assim que você vai ganhar experiência.
 
-# Fase 4: Gestão de configuração de projeto (maven, gradle, ant)
-Projetos complexos não são fáceis de montar. Eles tem uma série de passos para serem executados. Nessa fase, você vai estudar como montar um projeto mais complexo. Um projeto que tem vários módulos, testes e partes móveis. Para o mundo Java, a ferramenta mais usada é o Maven. Esses cursos da [Algaworks](https://www.youtube.com/watch?v=ZQICkNszEuI&ab_channel=AlgaWorks) e do [Curso de Tecnologia](https://www.youtube.com/watch?v=bN6ZOjhrOm4&ab_channel=CursoDeTecnologia). Explicam como usar essas ferramentas. 
+# Fase 4: Gestão de configuração de projeto
+Projetos complexos não são fáceis de montar. Eles tem uma série de passos para serem executados. Nessa fase, você vai estudar como montar um projeto mais complexo. Um projeto que tem vários módulos, testes e partes móveis. 
+
+Para o mundo Java, a ferramenta mais usada é o Maven. Esses cursos da [Algaworks](https://www.youtube.com/watch?v=ZQICkNszEuI&ab_channel=AlgaWorks) e do [Curso de Tecnologia](https://www.youtube.com/watch?v=bN6ZOjhrOm4&ab_channel=CursoDeTecnologia). Explicam como usar essas ferramentas. 
 
 # Fase 5: Testes
 Particularmente, eu gostaria de colcar a disciplina de testes o mais antes possível dado a sua importância. Porém, era importante ter os conhecimentos de Gestão de configuração de projeto. A disciplina de teste pode ser dividida em duas partes: o que testar e como testar.
 
 Para a parte do que testar, não achei cursos que me agradassem, esse da [Daniele Leão](https://www.youtube.com/watch?v=be3T6PXJEfk&ab_channel=DanieleLe%C3%A3o) quase é o que eu busco. 
 
-Na parte de como testar, os vídeos [280](https://www.youtube.com/watch?v=jdBsFPF_w9Q&ab_channel=DevDojo) e [281](https://www.youtube.com/watch?v=N5iaGF90XGg&ab_channel=DevDojo) da Maratona Java virado no Jiraya do Dev Dojo, bem como essa série de vídeos do [Valdir Cezar Tutoriais](https://www.youtube.com/playlist?list=PLA8Qj9w4RGkWgyYa485pgf-VAoJgL4rW1) explicam sobre duas das principais ferramentas que você vai usar nesse processo: o jUnit e Mockito. 
+Aqui, o livro [Test Driven Development: By Example de Kent Back](https://www.oreilly.com/library/view/test-driven-development/0321146530/) acaba se tornando uma leitura quase que obrigatória para saber o que testar.
+
+A parte de como testar é dependente da linguagem. Para o mundo Java os vídeos [280](https://www.youtube.com/watch?v=jdBsFPF_w9Q&ab_channel=DevDojo) e [281](https://www.youtube.com/watch?v=N5iaGF90XGg&ab_channel=DevDojo) da Maratona Java virado no Jiraya do Dev Dojo, bem como essa série de vídeos do [Valdir Cezar Tutoriais](https://www.youtube.com/playlist?list=PLA8Qj9w4RGkWgyYa485pgf-VAoJgL4rW1) explicam sobre duas das principais ferramentas que você vai usar nesse processo: o jUnit e Mockito. 
 
 
-# Fase 6: utilitários (manipulação de arquivo, json, data, texto, expressão regular, Exceções)
+# Fase 6: Utilitários
+
+Toda linguagem de programação terá seu conjunto de códigos prontos que executam as tarefas mais comuns: manipulação de arquivo, JSON, data, texto, expressões regular, tratamento de erro, etc. Conhecer essas ferramentas é algo bem importante. 
+
+**Atenção: não busque os utlitários de paralelismo, Threads ou programação paralela nessa fase. Haverá um momento para isso no futuro**
 
 Uma das coisas mais incríveis e poderosas do Java são seus vários frameworks e bibliotecas já embutidos que ajudam a lidar com os problemas mais comuns do desenvolvedor. O curso do [Maratona Java do DevDojo da aula 67 até 139](https://www.youtube.com/watch?v=kkOSweUhGZM&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&ab_channel=DevDojo) e o [Maratona Java virado no Jiraya da aula 95 até 244](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW) dá uma visão superficial, porém bem interessante sobre muitas ferramentas e frameworks. 
 
-# Fase 7: comunicação entre aplicações (Sockets, Endpoint HTTP, Signals)
-Aqui começa-se a estudar um pouco mais sobre sistemas operacionais.
+# Fase 7: Comunicação entre Aplicações
+
+Depois de ver os utilitários, você vai aprender a fazer diferentes aplicações conversarem entre si, aqui entram os protocolos HTTP, Sockets, Signals, gRPC, CORBA, RPC, etc. 
+
+> Aqui começa-se a estudar um pouco mais sobre sistemas operacionais.
+
+//TODO colocar links 
 
 # Pausa 2
 Agora você já está mais do que apto a completar os outros exercícios da [grande lista de exercícios](/posts/ideias-para-programar/) e até começar a brincar com as APIs dos exercícios mais avançados. Aproveite esse momento para finalizar toda a lista.
 
-# Fase 8: Padrões de projeto em camadas (modelo cliente e servidor, mestre/escravo,  mvc, mvvc, etc)
+
+# Fase 8: Programação paralela, assíncrona e concorrente
+
+Todo esse assunto é bem complexo e denso, além de se ramificar muito. Para começar a entender bem esse tema, eu diria que é necessário pelo menos uns 6 meses de estudo constante. Diria mais, esse passo pode ser feito em paralelo com as fases 9 e 10.
+
+Entre os principais assuntos temos: Threads, ThreadPool, Mutex e Monitores, Fork/Join, ThreadPool, Processos, Estruturas de dados paralelas, frameworks de programação assíncrona. 
+
+Depois disso, é importante ver como a sua linguagem de programação lida com esses assuntos, no caso de Java, entra a parte de Threads, Runnables, Atomic operators, Parallel Collections, Parallelal Streams, Executors, AtomicOperators. 
+
+//TODO colocar links
 
 # Pausa 3
 Desse ponto em diante você está totalmente apto para contribuir em diferentes projetos open source. [Aqui](https://github.com/camilatigre/listamaravilhosaopensource) tem uma lista linda com vários projetos para os diferentes níveis. Em especial, se você for do Java recomendo contribuir com o framework [Quarkus](https://quarkus.io/blog/contributing-for-the-first-time/). Mesmo que você ache que você é ruim (spoiler: se você está nesse ponto você não é), você sempre pode contribuir com documentação.
 
-# Fase 9: programação assíncrona (Threads, Runnables, AtomicOperators, estruturas de dados assíncrona, fork/Join, threadPool, executors, parallel streaming)
+# Fase 9: Padrões de projeto em camada
+(modelo cliente e servidor, mestre/escravo,  mvc, mvvc, etc)
 
-# Fase 10: Frameworks all-in-one (Quarkus, Spring, Helidon, etc...)
+# Fase 10: Frameworks all-in-one
 
 Notem que só depois de aprender como as coisas funcionam é que você deve aprender a usar um framework que contém todas as soluções. Infelizmente, muitas pessoas colocam a carroça na frente dos bois e viram programador de framework. 
+
+Falando em termos de front-end, é só aqui que você vai usar, um React.js, um Vue.js ou mesmo um Angular. 
+
+Em Java, o framework que domina o mercado é o Spring. Não gosto disso, mas não posso negar a realidade. Logo após dele, vem o Quarkus. Vou indicar os dois, dando prioridade para o Quarkus porque o blog é meu e eu decido as coisas u.u
 
 Para o curso de Quarkus, eu recomendo o Vinícius Ferraz da udemy. A [versão básica](https://www.udemy.com/course/des-web-quarkus-basico/) é grátis. A versão [avançada é paga](https://www.udemy.com/course/des-web-quarkus/), porém de tempos em tempos ele cria descontos com 100% de desconto.
 
@@ -81,4 +110,13 @@ Para Spring, eu recomendo o curso do YouTube da Loiane Groner de [Spring com Ang
 
 # Pausa Final
  
-Fazendo tudo num ritmo muito bom, você já deve estar programando há mais ou menos um ano e meio. Agora é um momento muito bom para procurar emprego com mais convicção. Se tudo foi feito bem certinho você já estudou mais de 500 horas de programação, já fez quase mil exercícios de programação, contribuiu com a comunidade de desenvolvimento, já compartilhou seus estudos, já trabalhou em software livre e é um programador Jr totalmente diferenciado no mercado. A jornada de estudos não terminou, mas agora a [lista de empresas para procurar vaga está esperando você](/posts/sites-empregos/). Boa sorte.
+Fazendo tudo num ritmo muito bom, você já deve estar programando há mais ou menos um ano e meio. Agora é um momento muito bom para procurar emprego com mais convicção. 
+Se tudo foi feito bem certinho você já:
+* Estudou mais de 500 horas de programação;
+* Já fez quase mil exercícios de programação;
+* Contribuiu com a comunidade de desenvolvimento;
+* Já compartilhou seus estudos;
+* Já trabalhou em software livre; 
+* É um programador Jr totalmente diferenciado no mercado. 
+
+A jornada de estudos não terminou, mas agora a [lista de empresas para procurar vaga está esperando você](/posts/sites-empregos/). Boa sorte.
