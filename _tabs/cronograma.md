@@ -8,8 +8,6 @@ Aqui está uma lista sobre alguns assuntos que pretendo falar. Sintam-se livres 
 
 |Título | Foco/Categoria |
 |---|---|
-|O modo de desenvolvedor do quarkus | Java/Quarkus|
-|Como desabilitar o modo desenvolvedor do quarkus | Java/Quarkus|
 |Porque não usar microsservicos | Arquitetura/Design | 
 |O que é o lateral Join e como usar | Banco de Dados|
 |Porque o ActiveRecord é um anti Pattern | Arquitetura/Design|
