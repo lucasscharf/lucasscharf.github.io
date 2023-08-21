@@ -1,5 +1,5 @@
 ---
-title: Porque não usar microsserviços
+title: Devo usar microsserviços na minha solução?
 categories: [Arquitetura]
 tags: [Reflexões, Microsservicos]
 ---
@@ -8,9 +8,9 @@ Definitivamente, este post teria sido mais polêmico há uns 4 anos. Perdi um po
 
 O mundo da programação, assim como o mundo da moda, segue tendências. A diferença é que no mundo da moda, as pessoas sabem quando uma peça deve ser usada apenas na passarela e quando que ela está apta para ser usada pelos simples mortais.
 
-Parece haver um desconhecimento sobre como isso funciona no mundo da programação. As pessoas entendem que só porque uma empresa resolveu um problema específico usando uma determinada solução, todas as empresas devem resolver todos os problemas da mesma forma. Parece absurdo dizer isso, mas foi exatamente o que aconteceu com a febre dos microsserviços.
+Na área de TI, parece que as pessoas não conseguem ter esse tipo de discernimento. Daí fica aquele esquema de que porque uma meia dúzia de empresas gigantescas resolveram um problema específico usando uma determinada solução, todas as empresas devem resolver todos os problemas da mesma forma. Parece absurdo dizer isso, mas foi exatamente o que aconteceu com a febre dos microsserviços. Vamos olhar historicamente como tudo aconteceu:
 
-No ano de 2012, o [twitter reescreveu sua API](https://blog.twitter.com/developer/en_us/a/2012/changes-coming-to-twitter-api). Nesse processo, eles migraram de uma grande e poderosa aplicação única capaz de fazer tudo (chamada de monólito) para um conjunto de aplicações menores que interagiam entre si (chamadas de microsserviços). O Twitter tinha uma equipe grande, fazer as alterações levava tempo, gerenciar as dependências era complicado, iniciar o servidor era um processo demorado, entre outros problemas. Essa solução foi um sucesso, tão grande que outras empresas começaram a seguir o exemplo, [Spotify](https://kubernetes.io/case-studies/spotify/),[Uber](https://www.uber.com/en-BR/blog/microservice-architecture/), [Netflix](https://www.sayonetech.com/blog/microservices-netflix). Por causa disso, todo mundo começou a adotar essas tecnologias. 
+No ano de 2012, o [twitter reescreveu sua API](https://blog.twitter.com/developer/en_us/a/2012/changes-coming-to-twitter-api). Nesse processo, eles migraram de uma grande e poderosa aplicação única capaz de fazer tudo (chamada de monólito) para um conjunto de aplicações menores que interagiam entre si (chamadas de microsserviços). O Twitter tinha uma equipe grande, fazer as alterações levava tempo, gerenciar as dependências era complicado, iniciar o servidor era um processo demorado, entre outros problemas. Em paralelo a isso, outras gigantes da tecnologia [Spotify](https://kubernetes.io/case-studies/spotify/),[Uber](https://www.uber.com/en-BR/blog/microservice-architecture/), [Netflix](https://www.sayonetech.com/blog/microservices-netflix) foram por essa mesma tendência. Por causa disso, todo mundo começou a adotar esse tipo de solução. Afinal, se todo mundo estava usando algo como solução, então é boa certo?
 
 Porém, o problema é que arquitetos e CTOs de empresas menores esqueceram de uma lição super importante do tempo das nossas mães: 
 
@@ -18,7 +18,7 @@ Porém, o problema é que arquitetos e CTOs de empresas menores esqueceram de um
 
 **Você não é todo mundo!**
 
-O fato é: houve todo um movimento grande de empresas que começaram a usar microsserviços sem realmente precisar deles. Isso gerou uma série de problemas. De tal forma que as pessoas iniciaram um movimento para afirmar que os microsserviços são ruins. Isso é tão sem sentido quanto dizer que um peixe é burro porque ele não consegue resolver equações matemáticas.
+O fato é: houve todo um movimento grande de empresas que começaram a usar microsserviços sem realmente precisar deles e sem refletir sobre os impactos dessa decisão. Isso gerou uma série de problemas. De tal forma que as pessoas iniciaram um movimento para afirmar que os microsserviços são ruins. Isso é tão sem sentido quanto dizer que um peixe é burro porque ele não consegue resolver equações matemáticas.
 
 Dito isso, como em um teste da Capricho, vamos fazer um quiz para determinar se haverá uma combinação adequada entre o seu projeto de software e a arquitetura de microsserviços:
 
