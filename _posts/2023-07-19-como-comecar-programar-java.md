@@ -32,7 +32,7 @@ Para SQL, o [curso do Lets Data](https://youtube.com/playlist?list=PLn_z5E4dh_Lg
 
 Sabendo dessas coisas, agora você pode fazer o curso de Java com banco de dados. Mas é pra usado Java puro e não frameworks como hibernate, jooq, panache ou outras coisas do JPA. Nessa fase você vai precisar abrir uma connection, fazer um statement, pegar um result set e por aí vai. 
 
-Um erro como comum que devs comentem é usar direto os frameworks sem entender o que está acontecendo. Não cometa esse erro. Por isso recomendo da aula 140 até a aula 153 do [curso Maratona Java do Dev Dojo](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLERdxi).
+Um erro como comum que devs comentem é usar direto os frameworks sem entender o que está acontecendo. Não cometa esse erro. Por isso recomendo da aula 140 até a aula 153 do [curso Maratona Java do Dev Dojo](https://www.youtube.com/watch?v=kkOSweUhGZM&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL&ab_channel=DevDojo).
 
 # Fase 3: Estrutura de dados
 
