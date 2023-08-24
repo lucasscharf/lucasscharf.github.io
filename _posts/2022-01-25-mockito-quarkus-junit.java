@@ -10,9 +10,9 @@ Esse tutorial será dividido em três partes, no primeiro vamos trabalhar com a 
 
 Para conseguir esse feito, vamos trazer o mestre do universo, o único que fica lindo de cabelo chanel e tanguinha, aquele que dá os melhores conselhos: He-man.
 
-![Alt Tex](/images/heman.jpg)
+![Alt Text](/images/heman.jpg)
 
-#O que faremos?
+# O que faremos?
 Nesse artigo vamos criar um o castelo de GraySkull onde as pessoas querem entrar. Esse castelo tem um porteiro que vai dizer se você entra na entrada VIP ou entrada normal.
 
 O castelo ficará com a seguinte cara.
@@ -95,7 +95,7 @@ E é nesse ponto que a beleza do Quarkus e dos mocks entram. Nós não precisamo
 
 Agora, vamos para a nossa classe de teste que será chamada de **CasteloDeGraySkullTest**.
 
-```
+```java
 import javax.inject.Inject;
 
 import org.junit.jupiter.api.Test;
@@ -142,7 +142,7 @@ She-ha está entrando no castelo
 She-ha entrou pelo portão VIP
 ```
 
-#Considerações
+# Considerações
 Tentei dividir ao máximo o conteúdo para que todo mundo possa acompanhar sem maiores problemas e entender bem o que houve. 
 Mockito é uma biblioteca extremamente poderosa e auxilia bastante no desenvolvimento de testes rápidos e eficientes. Espero que todos gostem.
 
