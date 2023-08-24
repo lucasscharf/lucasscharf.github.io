@@ -1,5 +1,5 @@
 ---
-title: Como usar Kafka num projeto Quarkus
+title: Como usar Mockito no Quarkus (feat. jUnit)
 categories: [Java, Quarkus]
 tags: [Java, Quarkus, Ferramentas]
 ---
