@@ -10,7 +10,7 @@ Esse tutorial será dividido em três partes, no primeiro vamos trabalhar com a 
 
 Para conseguir esse feito, vamos trazer o mestre do universo, o único que fica lindo de cabelo chanel e tanguinha, aquele que dá os melhores conselhos: He-man.
 
-![Image heman](/images/heman.jpg)
+![Alt Tex](/images/heman.jpg)
 
 #O que faremos?
 Nesse artigo vamos criar um o castelo de GraySkull onde as pessoas querem entrar. Esse castelo tem um porteiro que vai dizer se você entra na entrada VIP ou entrada normal.
