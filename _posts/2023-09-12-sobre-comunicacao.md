@@ -1,5 +1,5 @@
 ---
-title: Mais ideias sobre o que programar
+title: Sobre a importância da comunicação
 categories: [Carreira, Júnior]
 tags: [Reflexões]
 ---
