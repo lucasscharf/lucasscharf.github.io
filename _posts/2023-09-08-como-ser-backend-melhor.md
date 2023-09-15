@@ -48,3 +48,6 @@ Alguns sistemas de banco de dados, como os bancos de dados de grafos, são ideai
 # Linguagens Formais e Compiladores
 Compreender como as linguagens de consulta funcionam e como elas são otimizadas é fundamental para criar consultas eficazes em bancos de dados. Sem contar a capacidade de entender os comandos enviados, fazer otimizações, construir um bom plano de execução são conteúdos riquíssimos.
 
+Construir um banco de dados é como construir os alicerces de um arranha-céu tecnológico. Aprofundar-se nesse processo não só solidifica seu conhecimento em bancos de dados, mas também expande sua compreensão das bases que sustentam toda a infraestrutura de TI. É como aprender a fundo sobre a engenharia por trás da construção de estradas antes de se tornar um motorista. Isso não só o torna um motorista melhor, mas também alguém que pode contribuir para projetos de infraestrutura de maneira mais eficaz.
+
+Para ajudar nesses estudos preparei um pequeno [guia de estudos](/posts/como-comecar-programar-java/){:target="_blank"} que ensina alguma dessas coisas (focado para Java). Dê uma olhada <3
