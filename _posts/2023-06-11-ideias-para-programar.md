@@ -14,6 +14,9 @@ Feito em 1999 pelo professor Virgílio Vasconcelos Vilela essa apostila já tem 
 
 Você encontra uma cópia para essa lista [aqui](/assets/300ideias.pdf).
 
+# Ideias do Aleatório
+[Escrevi uma postagem](/posts/ideias-programar) com algumas ideias que eu acho legal para programar (e fugir daquele esquema de fazer uma cópia da Netflix ou uma pokédex).
+
 # Lista de exercícios com 100 exercícios do Curso em Vídeo
 
 Se existe um lugar no céu para quem ajudou o mundo de programação, esse lugar está reservado a Gustavo Guanabara. Com seu [curso de lógica de programação](https://www.cursoemvideo.com/curso/curso-de-algoritmo/) que é gratuito, didático e direto, Guanabara ensinou várias pessoas a programarem. 
@@ -45,6 +48,7 @@ Essa lista fala especialmente sobre python porque já tem o desafio e uma propos
 
 Essa lista com esse repositório de APIs que são ideais pra pessoas que não querem lidar com banco de dados: [https://github.com/public-apis/public-apis].
 Dá pra ter várias ideias de projetos com essas APIs. (sugestão e texto adaptado de [Julia Rezende Alves](https://www.linkedin.com/in/juliarezendealves/)).
+
 
 # Conclusão
 
