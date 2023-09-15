@@ -1,5 +1,5 @@
 ---
-title: Mais ideias sobre o que programar
+title: Lista de exercícios indo do básico até construção de APIs
 categories: [Carreira, Júnior]
 tags: []
 ---
@@ -11,7 +11,7 @@ Nossa jornada vai passar por programação de linha de comando, desvios condicio
 # Capítulo 1: Prova de conceito
 Você foi recém contratado para estagiar na revista Capriche. É a revista jovem mais balada do Brasil, o carro chefe da revista são os questionários que respondem perguntas extremamente importantes sobre: "será que o Crush está afim de você", "Qual profissão é mais a sua cara" e "De qual casa de hogwarts você seria". 
 
-Você cehga no seu primeiro dia de trabalho cheio de energia e vontade de programar. Por uma série de problemas na contratação, o seu chefe, Delipe Fylon, não estava preparado para fazer uma recepção apropriada. Por causa disso, ele inventa uma atividade em cima da hora, sem muito planejamento e com a cobrança de prazo para o quanto antes. Você precisa automatizar a execução desses questionários para ele apresentar para a diretoria. 
+Você chega no seu primeiro dia de trabalho cheio de energia e vontade de programar. Por uma série de problemas na contratação, o seu chefe, Delipe Fylon, não estava preparado para fazer uma recepção apropriada. Por causa disso, ele inventa uma atividade em cima da hora, sem muito planejamento e com a cobrança de prazo para o quanto antes. Você precisa automatizar a execução desses questionários para ele apresentar para a diretoria. 
 
 Seguem as instruções:
 ```
