@@ -10,7 +10,7 @@ Nos últimos anos, a linguagem Java perdeu espaço no mundo de programação bac
 
 Além da verbosidade, uma das principais reclamações é que o Java é lento e pesado.
 
-![](https://dev-to-uploads.s3.amazonaws.com/i/d7gox455pq7m1o219dar.jpeg)
+![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/d7gox455pq7m1o219dar.jpeg)
 
 É inaceitável em um mundo com FaaS, serveless, conteiners e  microsserviços, uma aplicação ocupe mais de 200mB e demore minutos para ficar pronta.
 
