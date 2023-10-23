@@ -39,10 +39,7 @@ Conta do twitter que divulga várias para jrs.
 ### [Juniorland.tech](https://discord.com/invite/ET5F4rEK)
 Um projeto super legal de comunidade no discord, onde são postadas vagas para jrs, entre outros sources legais. (Texto adaptado e créditos para Lys P.)
 
-### [vide rótulo](https://twitter.com/viderotulo)
-Essa conta do twitter posta um thread toda sexta sobre vagas de Jr e Bootcamp (Texto e créditos a Luiz Boltura)
-
-### [Manifest tech](https://manifestotech.org/)
+### [Manifesto tech](https://manifestotech.org/)
 O manifesto tech é um manifesto/compromisso assumido por várias empresas com o intuito de trabalhar na formação, capacitação e inclusão de novas pessoas no mundo tech. Olhando os signatários, temos um bom ponto de busca de empresas.
 
 ### [Let's code](https://letscode.com.br/processos-seletivos)

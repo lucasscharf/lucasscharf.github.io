@@ -10,14 +10,14 @@ E agora, quem poderá nos defender?
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/o7ytg0exznaok9zjq3yq.jpg)
 
-#O Que faremos?
+# O Que faremos?
 Vamos alterar a nossa [gloriosa fábrica de bolo](https://dev.to/lucasscharf/quarkus-openapi-uma-combinacao-tao-boa-que-deveria-se-chamar-bolo-de-chocolate-4eb7) que já está [persistindo os dados](https://dev.to/lucasscharf/trabalhando-com-jpa-quarkus-panache-e-bolo-de-chocolate-36k7). Após fazer a operação será enviado uma mensagem para o broker Kafka com a entidade transformada em JSON.
 
 Depois disso, por fim de simplicidade, vamos criar um consumidor para essas mensagens no mesmo projeto. Como vamos enviar as mensagens ao broker Kafka é possível consumir essas mensagens em algum outro projeto. 
 
 Para esse artigo é necessário saber um pouco sobre Kafka e ter o feito projeto da [fábrica de bolo com banco de dados](https://dev.to/lucasscharf/trabalhando-com-jpa-quarkus-panache-e-bolo-de-chocolate-36k7). 
 
-#É hora da ação
+# É hora da ação
 
 Caso você não tenha o projeto da fábrica, você pode pegar lá no meu [git](https://github.com/lucasscharf/blog-posts-code/tree/master/jpa-panache). Tendo o código em mãos, vamos adicionar as dependências do Kafka e do Jackson (para mandar a mensagem em JSON). Isso é feito colocando o código abaixo na parte de dependências do arquivo *pom.xml*:
 
@@ -187,7 +187,7 @@ Depois de apertar o botão do execute. É só olhar no terminal e vamos ver a sa
 
 E é isso, agora é possível brincar enviando novos bolos, excluíndo, etc...
 
-#Considerações
+# Considerações
 Nossa [fábrica de bolo](https://dev.to/lucasscharf/quarkus-openapi-uma-combinacao-tao-boa-que-deveria-se-chamar-bolo-de-chocolate-4eb7) que já [salva as coisas no banco de dados](https://dev.to/lucasscharf/trabalhando-com-jpa-quarkus-panache-e-bolo-de-chocolate-36k7) está evoluindo e está se comunicando via mensagens <3
 
 Nos próximos episódios, vamos garantir a atualização de banco de dados com flyway, adicionar rastreabilidade, resiliência e mais um monte de coisa massa =D
