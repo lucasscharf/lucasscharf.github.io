@@ -75,7 +75,7 @@ Fase 3) Em seguida, o programa perguntará quais são as respostas e quais são 
 Fase 4) Por fim, o programa realizará a enquete ao usuário, usando como entrada os dados fornecidos nas etapas anteriores e respondendo ao que foi perguntado.
 ```
 
-![](/images/grampeador_ferias.jpg)
+![Alt grampeador](/images/grampeador_ferias.jpg)
 
 # Capítulo 4: Utilização em arquivo
 Contrataram um novo gerente para substituir Delipe Fylon. No lugar dele entrou um cara simpático e meio tímido chamado Clark. Ele é alto, usa óculos, meio corpulento, tem olhos claros e tinha o apelido de super chefe na outra firma. Na primeira semana de trabalho, Clark conversa para você para entender o que você estava fazendo. Ele se impressiona bastante com o seu trabalho de até então com a aplicação. Por brincadeira, ele dá o nome de CaprichApp. 
