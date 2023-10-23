@@ -37,7 +37,7 @@ quarkus create && cd code-with-quarkus
 
 Depois de esperar algum tempo na primeira execução, está pronto!
 
-![](/images/its_alive.jpg)
+![Alt alive](/images/its_alive.jpg)
 
 Você pode usar o comando:
 
@@ -47,7 +47,7 @@ mvn quarkus:dev
 
 E acessar o navegador em ``localhost:8080`` para receber um maravilhoso "Hello, World!". O modo "create" permite várias customizações, como a escolha das extensões que você deseja utilizar, nome de pacotes, códigos de exemplo, etc.
 
-![](/images/polishop_e_nao_eh_soh_isso.png)
+![Alt polishop](/images/polishop_e_nao_eh_soh_isso.png)
 
 O Quarkus CLI permite adicionar novas extensões, executar a aplicação, construir imagens Docker, implantar o projeto em um cluster Kubernetes, atualizar versões do seu projeto e muito mais...
 
@@ -55,7 +55,7 @@ O Quarkus CLI permite adicionar novas extensões, executar a aplicação, constr
 
 O Quarkus também possui seu site gerador de código semelhante ao [Spring Initializr](https://start.spring.io). O primeiro passo é entrar no link do [code.quarkus.io](https://code.quarkus.io). Fazendo você verá a seguinte tela:
 
-![](/images/quarkus-code-generator.png)
+![Alt quarkus](/images/quarkus-code-generator.png)
 
 No bloco 1, existem opções para configurar seu projeto, incluindo o grupo, o artefato, a ferramenta de build (Maven ou Gradle), a versão da aplicação, a versão do Java e se você deseja usar códigos de exemplo das extensões.
 
