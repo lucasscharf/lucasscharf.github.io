@@ -10,10 +10,10 @@ Você decidiu que quer escrever em um blog. Você comprende como compartilhar co
 O Jekyll simplifica a criação e publicação de conteúdo. Você pode pegar um template pronto, clonar e já começar a escrever os textos. Esqueça preocupações técnicas complexas e foque na sua mensagem.
 
 # 2. Capacidade de Customizar
-Mas se ainda assim você quiser mexer na parte estética, o Jekyll oferece um monte de ferramentas para você mudar o design do blog. Você pode dar a sua cara (ou cara do Nicolas Cage para ele).
+Mas se ainda assim você quiser mexer na parte estética, o Jekyll oferece um monte de ferramentas para você mudar o design do blog. Você pode dar a sua cara (ou cara do [Nicolas Cage](http://nicolascage.com.br/) para ele).
 
 # 3. Performance
-Sites gerados pelo Jekyll são leves e rápidos. Eles são, literalmente, um monte de HTML metido a besta. Isso carrega muito rápido e proporciona uma excelente experiência de usuário. Tempos de carregamento mais curtos atraem mais leitores.
+Sites gerados pelo Jekyll são leves e rápidos. Eles são um monte de HTML metido a besta. Isso carrega muito rápido e proporciona uma excelente experiência de usuário. Tempos de carregamento mais curtos atraem mais leitores.
 
 # 4. Melhor Ranqueamento na Criação de Páginas
 Tendo um site bonito, bem escrito, com bons textos e rápido, sabe que vai gostar dele? Isso mesmo o Google. Pegando um tempalte redondo, você terá uma boa nota de performance/qualidade e isso aumentará suas aparências para o Google.
@@ -29,5 +29,8 @@ O Jekyll se integra perfeitamente a sistemas de controle de versão, como o Git.
 
 # 8. Integra com docker
 Tá afim de ver como ficou o site ou tentar compilar antes de jogar para o github? É fácil fazer com o docker. Um simples docker-compose permite você gerar todo o site e ver como ficará a usabilidade. 
+
+# 9. Não tem barreira de pagamento
+A terrível *paywall*. Caso você não saiba o que é, se considere sortudo. Esse tipo de barreira impede o conhecimento pois apenas aqueles que pagam podem consumir o conteúdo. Isso é algo que vai contra o livre conhecimento. 
 
 O Jekyll é top e usar ele fará da sua vida também mais top. No futuro, vou lançar um tutorial sobre como configurar e já começar a usá-lo.
