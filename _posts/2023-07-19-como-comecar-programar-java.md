@@ -3,7 +3,6 @@ title: Passo a passo sobre como começar a programar em Java
 categories: [Carreira, Júnior]
 tags: [Java]
 ---
-**Nota: esse post é um rascunho público. Deixei disponível para que as pessoas já possam se beneficiar dele.**
 
 Com grande frequência, várias pessoas vem até o [meu linkedin](https://www.linkedin.com/in/lucasscharf/) perguntando como começar a programar. Por causa disso, resolvi fazer uma trilha com um monte de conteúdo gratuito com um plano para a pessoa se tornar um programador Júnior diferenciado no mercado. Por uma questão de conhecimento os links são com Java porque é isso o que eu conheço e porque ninguém me paga pra estudar o C# alheio.
 
