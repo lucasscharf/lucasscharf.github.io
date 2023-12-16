@@ -91,6 +91,8 @@ Depois disso, é importante ver como a sua linguagem de programação lida com e
 Não encontrei nenhum curso que funciona da forma como eu quero, então vamos de partes em partes. Alguns desses cursos se sobrepõem em conteúdo, contudo, acabam fixando conteúdo. 
 Começando com o [curso de programação concorrente professor Fernando Santos](https://www.youtube.com/watch?v=lvcJxv-teC0&list=PLPrYObOisEDHo0zGqngAXoVQD5TaDtxzk&ab_channel=FernandodosSantos). Depois disso vem o [curso de programação paralela em C](https://www.youtube.com/watch?v=Q4Biti6q4XQ&list=PL_9px37PNj6pyE7GbTyGyR598_T7T_cwG&index=1&ab_channel=Laborat%C3%B3rioHiPES), por ser em C, acaba forçando a pessoa a escrever bem tudo e entender por baixo dos panos. É um assunto que precisa ser entendido com calma e tempo.
 
+Depois disso, seguimos com a versão em [Java de multiprogramação do Reinaldo Dev](https://www.youtube.com/watch?v=HNSRrbktJ9o&list=PLuYctAHjg89YNXAXhgUt6ogMyPphlTVQG&ab_channel=RinaldoDev).
+
 # Pausa 3
 Desse ponto em diante você está totalmente apto para contribuir em diferentes projetos open source. [Aqui](https://github.com/camilatigre/listamaravilhosaopensource) tem uma lista linda com vários projetos para os diferentes níveis. Em especial, se você for do Java recomendo contribuir com o framework [Quarkus](https://quarkus.io/blog/contributing-for-the-first-time/). Mesmo que você ache que você é ruim (spoiler: se você está nesse ponto você não é), você sempre pode contribuir com documentação.
 
