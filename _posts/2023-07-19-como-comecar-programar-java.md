@@ -78,7 +78,7 @@ Depois de ver os utilitários, você vai aprender a fazer diferentes aplicaçõe
 # Pausa 2
 Agora você já está mais do que apto a completar os outros exercícios da [grande lista de exercícios](/posts/ideias-para-programar/) e até começar a brincar com as APIs dos exercícios mais avançados. Aproveite esse momento para finalizar toda a lista.
 
-Você também pode ver meus exercícios como essa jornada no [CaprichApp]((/posts/ideias-programar)).
+Você também pode ver meus exercícios como essa jornada no [CaprichApp](/posts/ideias-programar).
 
 
 # Fase 8: Programação paralela, assíncrona e concorrente
