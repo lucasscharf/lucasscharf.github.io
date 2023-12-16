@@ -1,5 +1,5 @@
 ---
-title: Passo a passo sobre como começar a programar em Java (rascunho)
+title: Passo a passo sobre como começar a programar em Java
 categories: [Carreira, Júnior]
 tags: [Java]
 ---
@@ -70,14 +70,15 @@ Uma das coisas mais incríveis e poderosas do Java são seus vários frameworks 
 
 # Fase 7: Comunicação entre Aplicações
 
-Depois de ver os utilitários, você vai aprender a fazer diferentes aplicações conversarem entre si, aqui entram os protocolos HTTP, Sockets, Signals, gRPC, CORBA, RPC, etc. 
+Depois de ver os utilitários, você vai aprender a fazer diferentes aplicações conversarem entre si, aqui entram os protocolos HTTP, Sockets, Signals, gRPC, CORBA, RPC, etc. Entendendo a base de conceitos e protocolos, aprender novos protocolos fica algo fácil. Por exemplo, se você entende de SOAP, entender gRPC fica algo muito simples, mudando apenas alguns conceitos. Existem dois cursos interessantes, o primeiro deles é o curso da [Hardware Redes Brasil](https://www.youtube.com/watch?v=YbRHeRFYyCQ&list=PLAp37wMSBouDdpuuYhZfEK9oH0qk0IANb&ab_channel=HardwareRedesBrasil), depois de entender essa base é possível o [curso de Sistemas Distribuídos da UNIVESP](https://www.youtube.com/watch?v=e4zmQQU3ZqE&list=PLxI8Can9yAHdAU8zIvJTKcbhgRyzwjII2&ab_channel=UNIVESP) e o [curso do professor Fábio Pinheiro](https://www.youtube.com/watch?v=JnVwYSsyovs&list=PLRe8NlqFzKJXKCbMO6FIgMhqrXnAJnlCE&ab_channel=ProfF%C3%A1bioPinheiro).
 
-> Aqui começa-se a estudar um pouco mais sobre sistemas operacionais.
+> Em paralelo a isso, já é interessante entender um pouco mais sobre sistemas operacionais. Isso pode ser feito através de livros como Sistemas Operacionais Modernos ou o [curso de Sistemas Operacionais da UNIVESP](https://www.youtube.com/watch?v=Rl6HhDvW984&list=PLxI8Can9yAHeK7GUEGxMsqoPRmJKwI9Jw&ab_channel=UNIVESP).
 
-//TODO colocar links 
 
 # Pausa 2
 Agora você já está mais do que apto a completar os outros exercícios da [grande lista de exercícios](/posts/ideias-para-programar/) e até começar a brincar com as APIs dos exercícios mais avançados. Aproveite esse momento para finalizar toda a lista.
+
+Você também pode ver meus exercícios como essa jornada no [CaprichApp]((/posts/ideias-programar)).
 
 
 # Fase 8: Programação paralela, assíncrona e concorrente
@@ -88,15 +89,13 @@ Entre os principais assuntos temos: Threads, ThreadPool, Mutex e Monitores, Fork
 
 Depois disso, é importante ver como a sua linguagem de programação lida com esses assuntos, no caso de Java, entra a parte de Threads, Runnables, Atomic operators, Parallel Collections, Parallelal Streams, Executors, AtomicOperators. 
 
-//TODO colocar links
+Não encontrei nenhum curso que funciona da forma como eu quero, então vamos de partes em partes. Alguns desses cursos se sobrepõem em conteúdo, contudo, acabam fixando conteúdo. 
+Começando com o [curso de programação concorrente professor Fernando Santos](https://www.youtube.com/watch?v=lvcJxv-teC0&list=PLPrYObOisEDHo0zGqngAXoVQD5TaDtxzk&ab_channel=FernandodosSantos). Depois disso vem o [curso de programação paralela em C](https://www.youtube.com/watch?v=Q4Biti6q4XQ&list=PL_9px37PNj6pyE7GbTyGyR598_T7T_cwG&index=1&ab_channel=Laborat%C3%B3rioHiPES), por ser em C, acaba forçando a pessoa a escrever bem tudo e entender por baixo dos panos. É um assunto que precisa ser entendido com calma e tempo.
 
 # Pausa 3
 Desse ponto em diante você está totalmente apto para contribuir em diferentes projetos open source. [Aqui](https://github.com/camilatigre/listamaravilhosaopensource) tem uma lista linda com vários projetos para os diferentes níveis. Em especial, se você for do Java recomendo contribuir com o framework [Quarkus](https://quarkus.io/blog/contributing-for-the-first-time/). Mesmo que você ache que você é ruim (spoiler: se você está nesse ponto você não é), você sempre pode contribuir com documentação.
 
-# Fase 9: Padrões de projeto em camada
-(modelo cliente e servidor, mestre/escravo,  mvc, mvvc, etc)
-
-# Fase 10: Frameworks all-in-one
+# Fase 9: Frameworks all-in-one
 
 Notem que só depois de aprender como as coisas funcionam é que você deve aprender a usar um framework que contém todas as soluções. Infelizmente, muitas pessoas colocam a carroça na frente dos bois e viram programador de framework. 
 
