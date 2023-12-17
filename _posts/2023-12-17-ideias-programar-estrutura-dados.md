@@ -13,7 +13,7 @@ Inicialmente, o programa recebe 1 número inteiro contendo quantas receitas ser�
 Após isso, o programa deverá calcular quanto de cada item precisará comprar. Porém, tem um problema, as receitas são feitas baseadas em xícaras ou unidades, enquanto os itens são vendidos em kilo, litro ou dúzia. Para fins de cálculo, assuma que 1 xícara contém 250g ou 250ml. Açúcar, farinha e fermento são vendidos em pacotes de 1 kilo por outro lado leite condensado, leite integral e óleo são vendidos em pacotes de 1 litro.
 
 Um exemplo de entrada é:
-
+```
 3
 Pudim
 1 xícara açúcar
@@ -34,14 +34,16 @@ Panqueca
 1 xícara açúcar
 1 xícara fermento 
 0
-
+```
 E o programa deve responder:
+```
 Açúcar: 3 Kilos
 Leite condensado: 1 Litro
 Leite: 3 Litros
 Farinha: 4 Kilos
 Óleo: 1 Litro
 Fermento: 3 Kilos
+```
 
 //TODO ajuda do Clark
 # Calcular a quantidade de porções (travessia de lista)
@@ -49,7 +51,7 @@ Fermento: 3 Kilos
 Seu programa foi um sucesso. A produção do programa quer mais e sua tia está mais do que disposta a usar suas habilidades. Ela diz que estão rolando boatos de uma guerra que está por vir e por isso a logística vai ser alterada. Agora eles querem saber quantas porções é possível fazer de uma única receita. O programa receberá uma receita com título, lista de ingredientes e quantidades para uma porção. Após receber um zero indicando que terminou a receita, ele receverá uma lista de ingredientes (com o 0 indicando o fim da entrada) e deverá responder quantas porções serão feitas.
 
 Um exemplo de entrada:
-
+```
 Panqueca australiana
 1 xícara farinha
 3 xícara leite
@@ -61,10 +63,11 @@ Panqueca australiana
 4 Kilos farinha
 3 Kilos fermento
 0
-
+```
 E o programa deve responder:
+```
 3 Porções de Paqueca australiana
-
+```
 //TODO ajuda do Clark
 
 # Garantir que as batatas meia foram colocadas na ordem correta (parentetização)
@@ -77,17 +80,21 @@ Para cada batata virada para a direita, existe uma batata virada para a esquerda
 As batatas viradas para direita e esquerda estão aninhadas.
 
 Exemplos de batatas balanceadas:
+```
 ()
 ()()
 (())
 ((()()()))
+```
 
 Exemplos de batatas não balanceadas:
+```
 ((((((())
 ())
 (()()(()
 )
 ()(
+```
 
 Para auxiliar a estagiária, você deve deve escrever um programa que recebe uma sequência de batatas (representadas por abre e fecha parênteses) e responde se a sequência está balanceada ou não.
 
@@ -101,18 +108,21 @@ Para resolver essa situação sua tia quer que você desenvolva um programa para
 Inicialmente, o programa recebe um par de inteiros indicando a carga máxima que o caminhão consegue carregar e a quantidade de receitas disponíveis. Após isso, vem uma lista com as receitas e o peso de cada uma em kilos - cada receita tem um peso único. O seu programa deve retornar quanto de cada item será levado e a carga total do caminhão tentando minimizar a quantidade de produtos levados. 
 
 Por exemplo:
-> 501 3
-> Bolo de chocolate 46
-> Bolo de cenoura 19
-> Suco de tamarindo 2
+```
+501 3
+Bolo de chocolate 46
+Bolo de cenoura 19
+Suco de tamarindo 2
+```
 
 Então o programa deverá responder:
+```
 Bolo de chocolate: 10
 Bolo de cenoura: 2
 Suco de tamarindo: 1
 Carga total: 500
 Total de itens: 13
-
+```
 //TODO ajuda do Clark
 
 # Levar os ingredientes caro para o programa (problema da mochila com repetição)
@@ -123,15 +133,16 @@ Inicialmente, o programa recebe um par de inteiros indicando a carga máxima que
 
 
 Por exemplo:
-> 501 3
-> Bolo de chocolate 46 10
-> Bolo de cenoura 19 5
-> Suco de tamarindo 2 1
-
+```
+501 3
+Bolo de chocolate 46 10
+Bolo de cenoura 19 5
+Suco de tamarindo 2 1
+```
 Então o programa deverá responder:
-
+```
 A carga terá custará R$136,00 (equivalente a 26 bolos de cenoura e 3 sucos de tamarindo)
-
+```
 //TODO ajuda do clark
 # Dominação global
 Anos se passam. A guerra contra o povo toupeira acabou. Clark mudou de cidade para começar um novo trabalho como jornalista. Porém ele estava confiante de que a tia Namaria e o problema ficaria bem em suas mãos. O programa é líder de audiência matinal. Porém existe um entrave entre você e a dominação mundial: publicar seus achados.
@@ -141,5 +152,5 @@ Você se lembra de ter lido em algum [blog](http://aleatorio.dev.br){:target="_b
 ````
 Adicione todos os códigos num repositório no github;
 Documente esse repositório explicando como fazer para levantar a aplicação e testar;
-Cole o link aqui para que todos possam ver sua versão do CaprichApp e você domine o mundo ;)
+Cole o link aqui para que todos possam ver as soluções e você domine o mundo ;)
 ```
