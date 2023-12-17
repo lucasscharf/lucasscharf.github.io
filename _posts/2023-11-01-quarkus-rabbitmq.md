@@ -30,3 +30,12 @@ Headers (Cabeçalhos) - neste caso, os atributos do cabeçalho da mensagem são 
 A fábrica de bolo é um CRUD simples que uso para diferentes partes do framework Quarkus. Você pode encontrar o código básico [aqui](https://github.com/lucasscharf/blog-posts-code/tree/master/open-api), para ter uma explicação sobre as partes do projeto, você pode clicar [aqui]().
 
 # Hora da ação
+Na simples fábrica de bolo, nós fazemos as operações de cadastrar, editar, recuperar e deletar. Vamos editar essa fábria para que todas as mensagens que alteram dados (cadastrar, editar e deletar) também enviem um evento para o RabbitMQ informando o evento que foi gerado e qual o id alterado mandando todos todas as mensagens na mesma fila. Além disso vamos criar um outro serviço que apenas recebe os eventos e escreve eles na saída padrão. E notoriamente, vamos deixar tudo conectado com um RabbitMQ.
+
+## Configurando o servidor
+//TODO Iniciar o projeto adicionar as configurações de RabbitMQ e passar as filas
+//TODO configurar o servidor
+//TODO alterar a fábrica de bolo pra adicionar
+//TODO Configurar o cliente
+//TODO Configurar o rabbit mq
+//Testar tudo 
