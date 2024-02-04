@@ -47,7 +47,7 @@ Fermento: 3 Kilos
 
 Seu primo Clark foi visitar sua mãe e, por acaso, viu você quebrando a cabeça com o problema. Vendo que você estava com alguma dificuldade sugere que você crie um mapa entre cada produto e quantidade. Após isso o trabalho estará em controlar o que é Kilo e o que é Litro. Você pode resolver isso criando uma lista (ou vetor, ou array dependendo da linguagem que você usar) para os nomes de ingredientes que são de Kilo e os nomes que são de Litro. Dessa forma, é só verificar se o produto está presente na hora da escrita. 
 
-# Calcular a quantidade de porções (travessia de lista)
+# Calcular a quantidade de porções
 
 Seu programa foi um sucesso. A produção do programa quer mais e sua tia está mais do que disposta a usar suas habilidades. Ela diz que estão rolando boatos de uma guerra que está por vir e por isso a logística vai ser alterada. Agora eles querem saber quantas porções é possível fazer de uma única receita. O programa receberá uma receita com título, lista de ingredientes e quantidades para uma porção. Após receber um zero indicando que terminou a receita, ele receverá uma lista de ingredientes (com o 0 indicando o fim da entrada) e deverá responder quantas porções serão feitas.
 
@@ -100,7 +100,9 @@ Exemplos de batatas não balanceadas:
 
 Para auxiliar a estagiária, você deve deve escrever um programa que recebe uma sequência de batatas (representadas por abre e fecha parênteses) e responde se a sequência está balanceada ou não.
 
-Naquele almoço de família na casa da sua avó todo mundo estava nervoso comentando sobre a eminência da guerra com o povo toupeira. Todo mundo exceto você que estava ajeitando as batatas e seu primo Clark que  olhava atentamente para você. Você explica para ele que está ajudando sua tia com um problema no programa dela, decorar batatas. Após entender sua dor, ele explica que você consegue resolver o problema das batatas utilizando uma estrutura de dados chamada [pilha](https://www.treinaweb.com.br/blog/o-que-e-e-como-funciona-a-estrutura-de-dados-pilha). Sempre que você tiver um parenteses virado para esquerda você empilha algo (pode ser uma letra X), sempre for virado apra esquerda você desempilha, caso você tente desempilhar e não tenha elementos na pilha ou o programa termine com elementos na pilha então deu ruim e a decoração de batatas está errada. Ele também explica que existe uma prova matemática por indução sobre o funcionamento.
+Naquele almoço de família na casa da sua avó todo mundo estava nervoso comentando sobre a eminência da guerra com o povo toupeira. Todo mundo exceto você que estava ajeitando as batatas e seu primo Clark que  olhava atentamente para você. Você explica para ele que está ajudando sua tia com um problema no programa dela, decorar batatas. Após entender sua dor, ele explica que você consegue resolver o problema das batatas utilizando uma estrutura de dados chamada [pilha](https://www.treinaweb.com.br/blog/o-que-e-e-como-funciona-a-estrutura-de-dados-pilha). 
+
+Sempre que você tiver um parenteses virado para esquerda você empilha algo (pode ser uma letra X), sempre for virado apra esquerda você desempilha, caso você tente desempilhar e não tenha elementos na pilha ou o programa termine com elementos na pilha então deu ruim e a decoração de batatas está errada. Ele também explica que existe uma prova matemática por indução sobre o funcionamento.
 
 
 # Levar os ingredientes para o programa
@@ -133,8 +135,9 @@ Caldo de Cana 2
 
 Toda família está reunida para a despedida do seu primo. Ele foi selecionado pela revista para ir até a guerra e criar enquentes adolescentes para os soldados. No discurso de despedida, ele fala sobre meios para economizar alguns recursos para a guerra. Ele cita que caso você tenha um caminhão, infinitas receitas disponíveis com o peso em quilos e busque encher o caminhão com o menor número possível de receitas, o caminho mais simples sempre tentar colocar a maior receita possível e ir subtraindo do total e repetir esse processo até encher o caminhão. Você fica chocado com o quão específico e direto foi esse exemplo e com a impressão de que ele deu uma piscada de olho para você enquanto falava.
 
-# Levar os ingredientes caro para o programa (problema da mochila com repetição)
+# Levar os ingredientes caro para o programa
 Desafio. **AVISO, O EXERCÍCIO A SEGUIR É BEM COMPLEXO, NÃO FIQUE CHATEADO SE VOCÊ NÃO CONSEGUIR FAZER**
+
 A guerra com o povo toupeira prejudicou a economia de uma forma muito ruim, os motoristas foram substituídos por robôs que não reclamam do trabalho. Porém, agora tudo gira em torno de dinheiro. O problema continua sendo o mesmo: levar o caminhão o mais cheio possível. Porém, agora toda receita possui um peso e um preço. O objetivo é que o caminhão carregue o maior preço possível sem ultrapassar o peso máximo. 
 
 Inicialmente, o programa recebe um par de inteiros indicando a carga máxima que o caminhão consegue carregar e a quantidade de receitas disponíveis. Após isso, vem uma lista com as receitas, o peso e o preço de cada uma em kilos e reais - cada receita tem um par de preço e peso único. O seu programa deve retornar o valor da carga que será transportada para saber se haverá problemas com o governo do povo toupeira.
@@ -149,7 +152,7 @@ Suco de tamarindo 2 1
 ```
 Então o programa deverá responder:
 ```
-A carga terá custará R$136,00 (equivalente a 26 bolos de cenoura e 3 sucos de tamarindo)
+A carga terá custará R$136,00 //equivalente a 26 bolos de cenoura e 3 sucos de tamarindo
 ```
 
 Vocês conseguem fazer uma ligação para Clark. A guerra está extremamente feroz e a ligação está ruim. Ainda assim Clark quer te ajudar, ele ouve sua explicação e oferece as seguintes palavras de apoio: [problema da mochila com repetição](https://noic.com.br/materiais-informatica/curso/dp-02/).
@@ -159,7 +162,7 @@ Anos se passam. A guerra contra o povo toupeira acabou. Clark mudou de cidade pa
 
 Você se lembra de ter lido em algum [blog](http://aleatorio.dev.br){:target="_blank"} que o GitHub é um lugar legal para armazenar o código. E você decide experimentar isso para divulgar o seu trabalho e dominar o mundo. 
 
-````
+```
 Adicione todos os códigos num repositório no github;
 Documente esse repositório explicando como fazer para levantar a aplicação e testar;
 Cole o link aqui para que todos possam ver as soluções e você domine o mundo ;)
