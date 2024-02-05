@@ -140,7 +140,7 @@ Desafio. **AVISO, O EXERCÍCIO A SEGUIR É BEM COMPLEXO, NÃO FIQUE CHATEADO SE 
 
 A guerra com o povo toupeira prejudicou a economia de uma forma muito ruim, os motoristas foram substituídos por robôs que não reclamam do trabalho. Porém, agora tudo gira em torno de dinheiro. O problema continua sendo o mesmo: levar o caminhão o mais cheio possível. Porém, agora toda receita possui um peso e um preço. O objetivo é que o caminhão carregue o maior preço possível sem ultrapassar o peso máximo. 
 
-Inicialmente, o programa recebe um par de inteiros indicando a carga máxima que o caminhão consegue carregar e a quantidade de receitas disponíveis. Após isso, vem uma lista com as receitas, o peso e o preço de cada uma em kilos e reais - cada receita tem um par de preço e peso únicos. O seu programa deve retornar o valor da carga que será transportada para saber se haverá problemas com o governo do povo toupeira.
+Inicialmente, o programa recebe um par de inteiros indicando a carga máxima que o caminhão consegue carregar e a quantidade de receitas disponíveis. Após isso, vem uma lista com as receitas, o preço e peso de cada uma em kilos e reais - cada receita tem um par de preço e peso únicos. O seu programa deve retornar o valor da carga que será transportada para saber se haverá problemas com o governo do povo toupeira.
 
 
 Por exemplo:
