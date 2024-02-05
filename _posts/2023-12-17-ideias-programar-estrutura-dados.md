@@ -140,19 +140,21 @@ Desafio. **AVISO, O EXERCÍCIO A SEGUIR É BEM COMPLEXO, NÃO FIQUE CHATEADO SE 
 
 A guerra com o povo toupeira prejudicou a economia de uma forma muito ruim, os motoristas foram substituídos por robôs que não reclamam do trabalho. Porém, agora tudo gira em torno de dinheiro. O problema continua sendo o mesmo: levar o caminhão o mais cheio possível. Porém, agora toda receita possui um peso e um preço. O objetivo é que o caminhão carregue o maior preço possível sem ultrapassar o peso máximo. 
 
-Inicialmente, o programa recebe um par de inteiros indicando a carga máxima que o caminhão consegue carregar e a quantidade de receitas disponíveis. Após isso, vem uma lista com as receitas, o peso e o preço de cada uma em kilos e reais - cada receita tem um par de preço e peso único. O seu programa deve retornar o valor da carga que será transportada para saber se haverá problemas com o governo do povo toupeira.
+Inicialmente, o programa recebe um par de inteiros indicando a carga máxima que o caminhão consegue carregar e a quantidade de receitas disponíveis. Após isso, vem uma lista com as receitas, o peso e o preço de cada uma em kilos e reais - cada receita tem um par de preço e peso únicos. O seu programa deve retornar o valor da carga que será transportada para saber se haverá problemas com o governo do povo toupeira.
 
 
 Por exemplo:
 ```
-501 3
-Bolo de chocolate 46 10
-Bolo de cenoura 19 5
-Suco de tamarindo 2 1
+100 4
+Coxinha de Cravo 10 10
+Gelatina de cenoura  45 30
+Suco de tamarindo 50 40
+Chiclete de abacate 70 50
+
 ```
 Então o programa deverá responder:
 ```
-A carga terá custará R$136,00 //equivalente a 26 bolos de cenoura e 3 sucos de tamarindo
+A carga terá custará R$150,00 //equivalente a 1 suco de tamarindo e duas gelatinas de cenoura
 ```
 
 Vocês conseguem fazer uma ligação para Clark. A guerra está extremamente feroz e a ligação está ruim. Ainda assim Clark quer te ajudar, ele ouve sua explicação e oferece as seguintes palavras de apoio: [problema da mochila com repetição](https://noic.com.br/materiais-informatica/curso/dp-02/).
