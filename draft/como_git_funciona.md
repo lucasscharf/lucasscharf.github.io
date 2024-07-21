@@ -3,7 +3,7 @@ title: Como o git funciona internamente
 categories: [git]
 tags: [Ferramentas, git]
 ---
-Iniciando nosso [curso de Git](link para o curso). Nosso começo vai passar por alguns conceitos teóricos que vamos sempre voltar a revisar ao longo de todo o conteúdo. Mesmo que os conceitos não fiquem tão claros nesse primeiro momento, não desista quando formos vendo as partes práticas, a teoria fará mais sentid. Vamos começar entendendo, em linhas gerais, como o Git funciona. Para isso, é necessário entender que o Git é uma ferramenta para controle de versão. Mas, o que é uma ferramenta de controle de versão?
+Iniciando nosso [curso de Git](). Nosso começo vai passar por alguns conceitos teóricos que vamos sempre voltar a revisar ao longo de todo o conteúdo. Mesmo que os conceitos não fiquem tão claros nesse primeiro momento, não desista quando formos vendo as partes práticas, a teoria fará mais sentid. Vamos começar entendendo, em linhas gerais, como o Git funciona. Para isso, é necessário entender que o Git é uma ferramenta para controle de versão. Mas, o que é uma ferramenta de controle de versão?
 
 Ora, uma ferramenta de controle de versão é uma ferramenta que controla a versão (duh). Esse tipo de ferramenta permite que o usuário salve um documento, verifique as alterações feitas, veja quem fez as alterações, coloque marcações (tags) nessas versões, reverta alterações feitas e faça vários outros tipos de controle. Essas funcionalidades já são muito úteis quando você trabalha sozinho, mas são fundamentais quando você trabalha com várias outras pessoas.
 
