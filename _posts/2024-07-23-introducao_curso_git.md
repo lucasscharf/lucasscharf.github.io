@@ -8,15 +8,15 @@ Depois de enrolar mais do que aquela pessoa que você está afim de beijar, fina
 
 Git é uma ferramenta maravilhosa, [feita por um cara muito bonito](https://pt.wikipedia.org/wiki/Linus_Torvalds) e usada para gerenciar alguns dos principais projetos do mundo como o [Linux](https://github.com/torvalds/linux), o [Pix](https://github.com/bacen) e o [Twitter](https://github.com/twitter).  No entanto, os cursos existentes me desagradam. Fiz alguns cursos e achei que eles mais atrapalham do que ajudam. Por isso, resolvi fazer o meu, com a minha carinha e meu jeito fofo de trabalhar.
 
-Como vai funcionar? O curso será todo feito aqui no blog através de postagens. Sou feio, gordo, calvo, gago e já tem muito vídeo por aí. Toda terça e quinta teremos uma postagem com uma parte do curso. Cada postagem terá alguns exercícios para fazer e fixar o conteúdo. Não tenho nada para oferecer, nem certificado para dar, mas ficarei muito feliz em saber que você está acompanhando. Então me manda um salve no [Linkedin](https://linkedin.com/in/aleatoriodevbr) ou no [Twitter](https://twitter.com/aleatoriodevbr).
+Como vai funcionar? O curso será todo feito à partir de postagens no blog. Sou feio, gordo, calvo, gago e já tem muito vídeo por aí. Toda terça e quinta teremos uma postagem com uma parte do curso. Cada postagem terá alguns exercícios de fixação de conteúdo. Não tenho nada para oferecer, nem certificado para dar, mas ficarei muito feliz em saber que você está acompanhando. Então me manda um salve no [Linkedin](https://linkedin.com/in/aleatoriodevbr) ou no [Twitter](https://twitter.com/aleatoriodevbr) que eu ajudo divulgar o seu perfil.
 
 Antes de seguirmos, vamos pausar um minuto para vermos meus gatos. Eles são lindos <3 Você pode ficar o tempo que quiser olhando para eles.
 
 ![Alt apollo e selina](/images/apollo_selina.jpeg)
 
-Pois bem, abaixo segue a previsão de postagens. Conforme for escrevendo, vou alterando as coisas aqui. Idealmente, é bom seguir esse sumário que é ele quem vai ter os dados atualizados. Conforme for fazendo e revisando os textos, vou arrumando tudo. Porém, precisamos começar de algum lugar.
+Pois bem, abaixo segue a previsão com o conteúdo das postagens. É uma previsão bem inicial e incompleta. Conforme for postando, vou alterando as coisas aqui. Idealmente, é bom seguir o sumário dessa página porque ele quem vai ter as postagens atualizadas. Conforme for fazendo e revisando os textos, vou arrumando tudo. 
 
-* Como fazer o controle de versão de forma eficiente
+* O que é controle de versão e como fazer o controle de versão de forma eficiente
 * As diferentes áreas/zonas do git
 * Coletânea de um monte de tutorial para instalar o git na sua máquina
 * Por que usar o Github
@@ -24,12 +24,12 @@ Pois bem, abaixo segue a previsão de postagens. Conforme for escrevendo, vou al
 * Configurando seu usuário no git
 * Como fazer um commit no git 
 * Entendendo o git status
-* Como fazer um push (push)
-* Principais branches usadas no git
-* Manipulando branches (checkout e branch)
+* Entendendo o git log
+* Como fazer um push
+* Manipulando branches
 * Como desfazer erros no git (reset e revert)
 * Como fazer um rebase de presença 
-* Pegando dados do o servidor remoto (pull, reset, rebase)
+* Pegando dados do repositório remoto (pull, reset, rebase)
 * Movendo arquivos com git mv
 * Entendendo o log do git
 * O que é git stash e qual sua magia?
