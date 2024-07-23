@@ -16,8 +16,7 @@ Antes de seguirmos, vamos pausar um minuto para vermos meus gatos. Eles são lin
 
 Pois bem, abaixo segue a previsão de postagens. Conforme for escrevendo, vou alterando as coisas aqui. Idealmente, é bom seguir esse sumário que é ele quem vai ter os dados atualizados. Conforme for fazendo e revisando os textos, vou arrumando tudo. Porém, precisamos começar de algum lugar.
 
-* O que é controle de versão? 
-* A história de controle de versão com SVN e um mundo pré-git
+* Como fazer o controle de versão de forma eficiente
 * As diferentes áreas/zonas do git
 * Coletânea de um monte de tutorial para instalar o git na sua máquina
 * Por que usar o Github
