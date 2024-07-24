@@ -4,7 +4,7 @@ categories: [git]
 tags: [Ferramentas, git]
 ---
 
-Vamos iniciar [curso de Git](/posts/introducao_curso_git.md). Nesta primeira etapa, vamos passar por alguns conceitos teóricos. Esses conceitos vão sempre nos acompanhar, e eu recomendo que, de tempos em tempos, você volte para revisar este conteúdo inicial. Mesmo que os conceitos não fiquem tão claros nesse primeiro momento, não desista. À medida que formos explorando as partes práticas, a teoria fará mais sentido.
+Vamos iniciar [curso de Git](/posts/introducao_curso_git). Nesta primeira etapa, vamos passar por alguns conceitos teóricos. Esses conceitos vão sempre nos acompanhar, e eu recomendo que, de tempos em tempos, você volte para revisar este conteúdo inicial. Mesmo que os conceitos não fiquem tão claros nesse primeiro momento, não desista. À medida que formos explorando as partes práticas, a teoria fará mais sentido.
 
 Vamos começar entendendo, em linhas gerais, como o Git funciona. Para isso, é necessário entender que o Git é uma ferramenta para controle de versão (do inglês VCS, *Version Control System*). Mas, o que é uma ferramenta de controle de versão?
 
