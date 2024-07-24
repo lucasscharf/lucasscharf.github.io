@@ -7,8 +7,9 @@ tags: [Ferramentas, git]
 # Introdução
 Na [última postagem]() nós vimos que o git é um VCS (Sistema de Controle de Versão) que trabalha com um modelo de fotografias de documentos chamados commit. 
 Lembrando que o commit contém apenas as alteraçãoes feitas em relação com o commit anterior. Ao ler todos os commits, conseguimos sair de um documento vazio até a sua versão atual. 
+Na postagem de hoje do nosso [curso de Git](/posts/introducao_curso_git.md) vamos entender o conceito de VCS distribuído. 
 
-Na postagem de hoje vamos entender o conceito de VCS distribuído. Ser um VCS distribuído significa que os commits estão copiados em diferentes máquinas. Para entender bem isso, existem alguns conceitos importantes que nós temos aprender. Ao longo do curso, vamos voltar várias vezes nesses conceitos. Tudo bem não entender tudo em uma tacada só, aos poucos, com a repetição tudo ficará mais claro. Esses conceitos são: diretório de trabalho, repositório e área de estageamento. 
+Ser um VCS distribuído significa que os commits estão copiados em diferentes máquinas. Para entender bem isso, existem alguns conceitos importantes que nós temos aprender. Ao longo do curso, vamos voltar várias vezes nesses conceitos. Tudo bem não entender tudo em uma tacada só, aos poucos, com a repetição tudo ficará mais claro. Esses conceitos são: diretório de trabalho, repositório e área de estagiamento. 
 
 # Diretório de Trabalho (working directory)
 
@@ -31,6 +32,7 @@ Algumas explicações acabam misturando os conceito de repositório e diretório
 Cada arquivo que está sendo gerenciado pelo git pode estar em um dos três estados: 
 * Modificado (*Modified*): a alteração foi feita no diretório de trabalho, porém não foi commitada ainda.
 
+
 * Estagiada (*Staged*): a alteração foi feita, colocada na área de estagiamento, porém não foi salva no repositório.
 
 * Commitada (*Commited*): a alteração foi feita, estagiada e persistida no repositório.
@@ -43,9 +45,23 @@ As setas indicam as alterações que são feitas: do repositório para o diretó
 
 Agora, vamos ficar um bom tempo olhando o Apollo antes de falarmos sobre a parte distribuída do git.
 
-![Alt apollo descansando](/images/apollo_descansando.jpeg)
+![Alt apollo descansando](/images/apollo_descansando.png)
 
 
 # VCS distribuído
 
-Você se lembra que lá no começo do texto, nós falamos que o git é um VCS distribuído? Ele faz isso mantendo repositórios locais e remotos. O repositório local é que está na sua máquina e o repostório remoto é o que está outra. Em qual máquina? Não sabemos. Também não importa. O que importa é que são máquinas diferentes e existe todo um trabalho importante do git para fazer a sincronização desses repositórios.
+Você se lembra que lá no começo do texto, nós falamos que o git é um VCS distribuído? Ele faz isso mantendo repositórios (o diretório `.git`) locais e remotos. O repositório local é que está na sua máquina e o repostório remoto é o que está outra. Em qual máquina? Não sabemos. Também não importa. O que importa é que são máquinas diferentes e existe todo um trabalho importante do git para fazer a sincronização desses repositórios.
+
+Quando trabalhamos com o Git, é importante informar ao sistema quais são (e onde estão) os repositórios remotos. Isso nos permite, após fazer um commit em nosso repositório local, utilizar comandos especiais para sincronizar nossos repositórios, enviando os commits para os repositórios remotos.
+
+De forma semelhante, também podemos obter commits de um repositório remoto e incorporá-los ao nosso repositório local. Se desejarmos, podemos até mesmo aplicar essas alterações ao nosso diretório de trabalho, garantindo que temos as versões mais recentes dos arquivos em que estamos trabalhando.
+
+A figura abaixo demonstra todas as áreas do Git e alguns comandos que nós usamos e que permitem a moviementação dos dados. Não se preocupe muito se você não entender todos os detalhes agora. Quando finalizar o curso você vai olhar para ela e verá que tudo faz sentido. 
+![Alt apollo descansando](/images/areas_git_comandos.png)
+
+E por hoje é isso, na próxima aula vamos estudar o terceiro conceito importante para o entendimento do funcionamento do Git, a árvore de commits. Agora temos exercícios.
+
+---
+A) Pergunta: Suponha que você criou um novo arquivo chamado documento.txt no seu diretório de trabalho e fez algumas alterações. Explique em qual estado o arquivo se encontra imediatamente após a alteração. Quais são as etapas para movê-lo para o estado de "comitado"?
+
+B) Descreva as vantagens do modelo distribuído de versionamento em comparação com um modelo centralizado. Considere aspectos como segurança, colaboração, e flexibilidade no desenvolvimento.
