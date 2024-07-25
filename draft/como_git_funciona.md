@@ -12,7 +12,7 @@ Ora, uma ferramenta de controle de versão é, como o nome sugere, uma ferrament
 
 Essas funcionalidades já são extremamente úteis quando você está trabalhando sozinho, pois elas ajudam a manter um histórico organizado do seu projeto e permitem que você volte atrás em caso de erros. No entanto, essas ferramentas se tornam ainda mais fundamentais quando você trabalha com várias outras pessoas em um projeto colaborativo.
 
-No caso do Git, esse tipo de controle de versão é feito através da persistência pequenas e pontuais alterações chamadas **commits**. Não existe uma tradução perfeita para essa palavra. Um commit é como uma fotografia do seu arquivo, representando-o em um dado momento. Ou seja, cada vez que você faz um commit, está salvando uma fotografia do seu arquivo.
+No caso do Git, esse tipo de controle de versão é feito através da persistência de pequenas e pontuais alterações chamadas **commits**. Não existe uma tradução perfeita para essa palavra. Um commit é como uma fotografia do seu arquivo, representando-o em um dado momento. Ou seja, cada vez que você faz um commit, está salvando uma fotografia do seu arquivo.
 
 No entanto, essa fotografia precisa ser feita de forma inteligente, senão acabará ocupando muito espaço em disco. Vamos ver um exemplo de uma proposta de fotografia **não inteligente**. Imagine que você tem o seguinte arquivo com sua fotografia inicial:
 
@@ -56,6 +56,6 @@ Hora do exercício.
 
 A) Escreva com as suas palavras o que é uma ferramenta de controle de versões.
 
-B) No git, cada commit gera um *hash*. Explique com suas palavras o que é um *hash*.
+B) No git, cada commit gera um *hash*. Um *hash* é uma função matemática que, dado um valor de entrada, retorna um único valor de saída. Pesquise e explique com suas palavras o que é um *hash* e onde que ele é usado no git.
 
-C) Cada commit feito tem uma série de informações extras. Essas informaçõe são chamadas de metadados. Quais são os metadados existentes em um commit?
+C) Cada commit feito tem uma série de informações extras sobre o commit. Essas informações são chamadas de metadados. Por exemplo, no caso de uma fotografia alguns metadados são: horário da fotografia, resolução da imagem, informações sobre a câmera, lente utilizada. Pesquisa e escreva quais são os metadados existentes em um commit?
