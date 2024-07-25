@@ -56,6 +56,6 @@ Hora do exercício.
 
 A) Escreva com as suas palavras o que é uma ferramenta de controle de versões.
 
-B) No git, cada commit gera um *hash*. Um *hash* é uma função matemática que, dado um valor de entrada, retorna um único valor de saída. Pesquise e explique com suas palavras o que é um *hash* e onde que ele é usado no git.
+B) No Git, cada commit gera um *hash*. Um *hash* é uma função matemática que, dado um valor de entrada, retorna um único valor de saída. Pesquise e explique com suas palavras o que é um *hash* e onde que ele é usado no Git.
 
 C) Cada commit feito tem uma série de informações extras sobre o commit. Essas informações são chamadas de metadados. Por exemplo, no caso de uma fotografia alguns metadados são: horário da fotografia, resolução da imagem, informações sobre a câmera, lente utilizada. Pesquisa e escreva quais são os metadados existentes em um commit?
