@@ -5,7 +5,7 @@ tags: [Ferramentas, git]
 ---
 
 # Introdução
-Na [última postagem]() nós vimos que o git é um VCS (Sistema de Controle de Versão) que trabalha com um modelo de fotografias de documentos chamados commit. 
+Na [última postagem](/posts/o_que_sao_commits) nós vimos que o git é um VCS (Sistema de Controle de Versão) que trabalha com um modelo de fotografias de documentos chamados commit. 
 Lembrando que o commit contém apenas as alteraçãoes feitas em relação com o commit anterior. Ao ler todos os commits, conseguimos sair de um documento vazio até a sua versão atual. 
 Na postagem de hoje do nosso [curso de Git](/posts/introducao_curso_git) vamos entender o conceito de VCS distribuído. 
 
