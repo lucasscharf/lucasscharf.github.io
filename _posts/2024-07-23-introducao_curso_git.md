@@ -1,7 +1,7 @@
 ---
 title: Início do Curso de Git
-categories: [Git]
-tags: [Ferramentas, Git]
+categories: [git]
+tags: [Ferramentas]
 ---
 
 Depois de enrolar mais do que aquela pessoa que você está afim de beijar, finalmente criei vergonha na cara e comecei a organizar o meu curso de Git público, gratuito e de qualidade d̶u̶v̶i̶d̶o̶s̶a̶. Você pode estar se perguntando por que estou fazendo isso? P̶a̶r̶a̶ f̶i̶c̶a̶r̶ p̶o̶s̶t̶a̶n̶d̶o̶ f̶o̶t̶o̶s̶ d̶o̶s̶ m̶e̶u̶s̶ g̶a̶t̶o̶s̶  Adoro [compartilhar conhecimentos](/posts/compartilhe-agora/) e estou bem insatisfeito com os cursos que eu vi por aí. 

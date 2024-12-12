@@ -12,7 +12,7 @@ Aqui está uma lista sobre alguns assuntos que pretendo falar. Sintam-se livres 
 |O que é o lateral Join e como usar | Banco de Dados|
 |Porque o ActiveRecord é um anti Pattern | Arquitetura/Design|
 |Uma reflexão sobre boas práticas de programação | Arquitetura/Design|
-|Como começar a programar Java | Carreira |
+| [Como começar a programar Java](https://aleatorio.dev.br/posts/como-comecar-programar-java/) | Carreira |
 | [Um monte de ideia do que programar](/posts/ideias-para-programar/) | Carreira |
 | [Um monte de site de onde procurar emprego como iniciante](/posts/sites-empregos/) | Carreira |
 | O que são indícies reversos e como eles podem acelerar sua consulta no banco de dados (exemplo em PostgreSQL)| Banco de dados
@@ -37,7 +37,6 @@ Aqui está uma lista sobre alguns assuntos que pretendo falar. Sintam-se livres 
 |Como monitorar a saúde do sistem| Arquitetura|
 |Formas criativas de como utilizar os logs do sistema | Arquitetura|
 |Como saber qual área da programação eu gosto mais?| Carreira|
-|Minha visão sobre python | Opinião| 
 |O grande mundo da observabilidade | Arquitetura/Design|
 |Tolerância a falhas com quarkus | Java/Quarkus |
 |Healthcheck com quarkus | Java/Quarkus|
@@ -56,6 +55,6 @@ Aqui está uma lista sobre alguns assuntos que pretendo falar. Sintam-se livres 
 |Reflexões sobre minha carreira e o que você pode aprender com ela| Carreira |
 |O que é o LaTeX e como usá-lo?| Carreira|
 |Como programar post com Jekyll e Github Actions| Carreira|
-|O que são os 12 fatores para o desenvolvimento de softare | Arquitetura/Design|
+|O que são os 12 fatores para o desenvolvimento de software | Arquitetura/Design|
 |O que são indícies GIN e como usar| Banco de Dados/PostgreSQL|
 |[	Vale a pena fazer mestrado na área de TI?](/posts/vale-a-pena-mestrado/)| Carreira|
