@@ -1,7 +1,7 @@
 ---
 title: Opinião sobre o texto State of Valhalla Part 1 The Road to Valhalla
 categories: [Java]
-tags: [Java,Resumo]
+tags: [Java, Resumo]
 ---
 
 # Introdução
