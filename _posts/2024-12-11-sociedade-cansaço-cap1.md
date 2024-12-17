@@ -21,7 +21,7 @@ O primeiro capítulo busca definir o conceito de violência neural. A ideia cent
 
 O primeiro ponto que me chama a atenção é a afirmação do autor de que estão aumentando os casos de TDAH, transtorno de personalidade limítrofe e síndrome de burnout. Entretanto, recordo ter lido, em outros lugares, que essas enfermidades sempre existiram em grande quantidade; o que aumentou, na verdade, foi o número de diagnósticos. Não sei ao certo a veracidade dessas informações, mas achei importante ressaltar essa perspectiva.
 
-O segundo ponto que me chama a atenção é que ele argumenta que essas coisas acontecem não pela existência da *negatividade* como um vírus, mas pela existência do excesso de *positividade*. Mas sabe por que ele me chama a atenção? Porque ele não define o que é essa positividade. Passei o capítulo inteiro sem entneder o que é essa positividade que esse corno diz. AAAAAHHH.
+O segundo ponto que me chama a atenção é que ele argumenta que essas coisas acontecem não pela existência da *negatividade* como um vírus, mas pela existência do excesso de *positividade*. Mas sabe por que ele me chama a atenção? Porque ele não define o que é essa positividade. Passei o capítulo inteiro sem entender o que é essa positividade que esse corno diz. AAAAAHHH.
 
 Para ser justo, o autor dá algumas pistas sobre o que seria a positividade. Ela seria o oposto da negatividade. A negatividade se relaciona a algo *externo* ou *estranho* ao nosso organismo e que é tratado como um invasir a ser eliminado. A positividade teria origem interna. O problema surge porque, ao longo do último século, aprendemos a lidar apenas com o que é externo, e não sabemos lidar com o que não vem desse “outro”.
 
