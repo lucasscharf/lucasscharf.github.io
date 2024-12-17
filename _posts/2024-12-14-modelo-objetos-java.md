@@ -92,7 +92,7 @@ A sincronização é um caso à parte. Ela será proibida em *value objects*. Se
 
 Aqui chegamos a uma das partes mais interessantes do Valhalla. Você não apenas pode criar um **value object**, como também pode criar sua própria classe com o mesmo comportamento de um tipo primitivo. Nesse caso, você abre mão de ter valores nulos, mas obtém dados mais achatados e densos, com valores padrão diferentes de `null`. Para mais detalhes, consulte a [JEP](https://openjdk.org/jeps/8316779).
 
-O restante do texto traz considerações muito interessantes sobre o funcionamento das classes primitivas, argumentando sobre os tipos primitivos, bem como os usos de tipos por referência.
+O restante do texto traz considerações muito interessantes sobre o funcionamento das classes primitivas, argumentando sobre os tipos primitivos, bem como os usos de tipos por referência. Fiquei com preguiça de escrever sobre essa parte. Talvez eu volte no futuro para escrever sobre isso (a quem estou mentindo? não vou voltar).
 
 # Conclusão
 O fim do texto traz essa tabela trazendo a unificação feita pelo Valhalla o uso primitivos e objetos. A tabela a seguir resume essa mudança:
