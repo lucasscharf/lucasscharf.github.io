@@ -133,7 +133,7 @@ Altere a aplicação para realizar as operações de leitura/escrita utilizando 
 
 Anos se passam. Clark abandonou a empresa para começar um novo trabalho como jornalista. Porém ele estava confiante de que a empresa ficaria bem em suas mãos. O CaprichApp é líder nos aplicativos de enquete. Porém existe um entrave entre você e a dominação mundial: diferentes sistemas operacionais e configurações. 
 
-Você se lembra de ter lido em algum [blog](http://aleatorio.dev.br){:target="_blank"} que existe uma tecnologia muito poderosa containers. E você decide  experimentar isso para divulgar o seu trabalho e dominar o mundo. 
+Você se lembra de ter lido em algum [blog](https://aleatorio.dev.br){:target="_blank"} que existe uma tecnologia muito poderosa containers. E você decide  experimentar isso para divulgar o seu trabalho e dominar o mundo. 
 
 ````
 Crie uma imagem docker com o seu aplicativo compilado e pronto para rodar;

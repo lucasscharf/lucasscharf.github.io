@@ -34,7 +34,7 @@ O modelo padrão não vem com nenhum controller, então foi escrito um. O contro
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/zpq5yclqtxn0avag7uzk.png)
 
 # Gerando código Quarkus
-Quarkus também possui o seu gerador que pode ser acessado em http://code.quarkus.io. Foi selecionado apenas o plugin para comunicação REST (que é obrigatório ser selecionado). O  código foi criado com a seguinte árvore.
+Quarkus também possui o seu gerador que pode ser acessado em https://code.quarkus.io. Foi selecionado apenas o plugin para comunicação REST (que é obrigatório ser selecionado). O  código foi criado com a seguinte árvore.
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/jhralw47cmrc5b75cpp2.png)
 

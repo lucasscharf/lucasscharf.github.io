@@ -126,10 +126,10 @@ Fui chamado com a variável: Parâmetro
 #Dicas, truques e informações
 
 ### O modo de comando já vem por padrão
-Uma classe feita pelo [gerador do quarkus](http://code.quarkus.io/) tem como dependência o *quarkus-resteasy* que já traz o *quarkus-arc* como dependência transitiva.
+Uma classe feita pelo [gerador do quarkus](https://code.quarkus.io/) tem como dependência o *quarkus-resteasy* que já traz o *quarkus-arc* como dependência transitiva.
 
 ### Como fazer uma saída mais limpa
-Uma boa aplicação de linha de comando [não fala nada se não tiver nada de surpreendente a dizer](http://www.catb.org/esr/writings/taoup/html/ch01s06.html#id2878450).
+Uma boa aplicação de linha de comando [não fala nada se não tiver nada de surpreendente a dizer](https://www.catb.org/esr/writings/taoup/html/ch01s06.html#id2878450).
 Para retirar os logs colocados é só alterar o arquivo application.proprties e adicionar o seguinte texto.
 
 ```properties

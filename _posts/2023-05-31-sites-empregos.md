@@ -51,7 +51,7 @@ Projeto voluntário que consiste em divulgação semanal do Linkedin de profissi
 ### [Digital Innovation One Inc.](https://www.dio.me/)
 A DIO lança bootcamps patrocinados por grandes empresas com foco em contratação de pessoas. Basta escolher o evento, a tecnologia e correr para o abraço.
 
-### [Academia Técnica Capgemini](http://capgemini.proway.com.br/)
+### [Academia Técnica Capgemini](https://capgemini.proway.com.br/)
 É um programa de formação de profissionais gratuito e com focos . Após fazer um processo seletivo aberto a todas as pessoas, os selecionados irão participar de um curso de 500h sobre programação. Após isso, os selecionados serão contratados. De acordo com o site da empresa, no ano de 2021, mais de 100 profissionais foram formados dessa forma.
 
 ### [Gama Academy](https://www.gama.academy/)

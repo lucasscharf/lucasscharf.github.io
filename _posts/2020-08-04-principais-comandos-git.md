@@ -28,7 +28,7 @@ Então, vocês estão prontas crianças?
 ![Alt capitão bob sponja](https://dev-to-uploads.s3.amazonaws.com/i/t1wxtlny670khcy6oc5x.jpeg)
 
 #Clone
-O primeiro comando que nós temos é o **clone**. Ele tem a função de copiar o repositório remoto (que geralmente está armazenado no [github](http://github.com/), [bitbucket](http://bitbucket.org/) ou [gitlab](https://gitlab.com/explore)) para a sua máquina. A forma mais comum desse comando é:
+O primeiro comando que nós temos é o **clone**. Ele tem a função de copiar o repositório remoto (que geralmente está armazenado no [github](https://github.com/), [bitbucket](https://bitbucket.org/) ou [gitlab](https://gitlab.com/explore)) para a sua máquina. A forma mais comum desse comando é:
 
 ```
 git clone <URL>

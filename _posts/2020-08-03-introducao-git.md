@@ -30,10 +30,10 @@ Antes de entrar nos detalhes de como o git funciona, é necessário entender que
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/zbu0eocercv8edfs846m.png)
 
-* **Diretório de trabalho** é o diretório que você está utilizando para trabalhar (duh!). Não vou entrar muito nos detalhes (já que essa é uma introdução gentil), mas pense no diretório de trabalho como um [sandbox](http://www.otimizacao-sites-busca.com/otpo/posicionamento/sandbox-caixa-areia.htm#:~:text=Sandbox%20foi%20usado%20primeiramente%20%E2%80%93%20e,evitar%20danos%20ao%20pr%C3%B3prio%20programa) para todas as alterações que você está fazendo. Ele permite que você faça/desfaça alterações sem compromisso ou afetar qualquer outra coisa.
+* **Diretório de trabalho** é o diretório que você está utilizando para trabalhar (duh!). Não vou entrar muito nos detalhes (já que essa é uma introdução gentil), mas pense no diretório de trabalho como um [sandbox](https://www.otimizacao-sites-busca.com/otpo/posicionamento/sandbox-caixa-areia.htm#:~:text=Sandbox%20foi%20usado%20primeiramente%20%E2%80%93%20e,evitar%20danos%20ao%20pr%C3%B3prio%20programa) para todas as alterações que você está fazendo. Ele permite que você faça/desfaça alterações sem compromisso ou afetar qualquer outra coisa.
 * **Área de estagiamento** essa área é o meio termo entre o seu diretório de trabalho e o repositório local. Nesse momento, as alterações estão indicadas para serem salvas no repostório local, porém ainda não foram salvas. 
 * **Repositório local** é onde as coisas ficam salvas. Todos arquivos que você cria e as alterações desses arquivos ficam salvas de forma compactada dentro do diretório .git.
-* **Repositório remoto** é um local que centraliza os repositórios seus e de todas as pessoas envolvidas no projeto. Os repositórios mais remotos que nós temos são o [github](https://github.com/), o [bitbucket](http://bitbucket.org/) e o [gitlab](https://gitlab.com/explore).
+* **Repositório remoto** é um local que centraliza os repositórios seus e de todas as pessoas envolvidas no projeto. Os repositórios mais remotos que nós temos são o [github](https://github.com/), o [bitbucket](https://bitbucket.org/) e o [gitlab](https://gitlab.com/explore).
 
 Entendendo esses conceitos, fica mais fácil de entender como funcionam alguns comandos do git.
 

@@ -10,7 +10,7 @@ Você decidiu que quer escrever em um blog. Você comprende como compartilhar co
 O Jekyll simplifica a criação e publicação de conteúdo. Você pode pegar um template pronto, clonar e já começar a escrever os textos. Esqueça preocupações técnicas complexas e foque na sua mensagem.
 
 # 2. Capacidade de Customizar
-Mas se ainda assim você quiser mexer na parte estética, o Jekyll oferece um monte de ferramentas para você mudar o design do blog. Você pode dar a sua cara (ou cara do [Nicolas Cage](http://nicolascage.com.br/) para ele).
+Mas se ainda assim você quiser mexer na parte estética, o Jekyll oferece um monte de ferramentas para você mudar o design do blog. Você pode dar a sua cara (ou cara do [Nicolas Cage](https://nicolascage.com.br/) para ele).
 
 # 3. Performance
 Sites gerados pelo Jekyll são leves e rápidos. Eles são um monte de HTML metido a besta. Isso carrega muito rápido e proporciona uma excelente experiência de usuário. Tempos de carregamento mais curtos atraem mais leitores.

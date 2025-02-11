@@ -72,7 +72,7 @@ Usando o comando **mvn test** temos o seguinte retorno:
 
 ```java
 [INFO] Running org.acme.ExemploTest
-2020-07-08 19:30:23,622 INFO  [io.quarkus] (main) Quarkus 1.6.0.Final on JVM started in 1.481s. Listening on: http://0.0.0.0:8081
+2020-07-08 19:30:23,622 INFO  [io.quarkus] (main) Quarkus 1.6.0.Final on JVM started in 1.481s. Listening on: https://0.0.0.0:8081
 2020-07-08 19:30:23,623 INFO  [io.quarkus] (main) Profile test activated. 
 2020-07-08 19:30:23,623 INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]
 Rodando teste sem tag...
@@ -96,13 +96,13 @@ precisar fazer uma edição no nosso pom.xml. Lá na parte de plugins, vamos adi
 </plugin>
 ```
 
-Se você baixou o código direto do [gerador de código do Quarkus](http://code.quarkus.io/), então esse plugin já está presente e com algumas configurações. É só adicionar a linha do **excludedGroups** que tudo funcionará corretamente. 
+Se você baixou o código direto do [gerador de código do Quarkus](https://code.quarkus.io/), então esse plugin já está presente e com algumas configurações. É só adicionar a linha do **excludedGroups** que tudo funcionará corretamente. 
 
 Agora, vamos rodar de novo o teste, para ver o resultado.
 
 ```java
 [INFO] Running org.acme.ExemploTest
-2020-07-08 19:29:56,324 INFO  [io.quarkus] (main) Quarkus 1.6.0.Final on JVM started in 1.376s. Listening on: http://0.0.0.0:8081
+2020-07-08 19:29:56,324 INFO  [io.quarkus] (main) Quarkus 1.6.0.Final on JVM started in 1.376s. Listening on: https://0.0.0.0:8081
 2020-07-08 19:29:56,326 INFO  [io.quarkus] (main) Profile test activated. 
 2020-07-08 19:29:56,326 INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]
 Rodando teste sem tag...
@@ -165,7 +165,7 @@ E esse comando nos dará o seguinte retorno.
 
 ```java
 [INFO] Running org.acme.ExemploTest
-2020-07-08 19:31:57,933 INFO  [io.quarkus] (main) Quarkus 1.6.0.Final on JVM started in 1.100s. Listening on: http://0.0.0.0:8081
+2020-07-08 19:31:57,933 INFO  [io.quarkus] (main) Quarkus 1.6.0.Final on JVM started in 1.100s. Listening on: https://0.0.0.0:8081
 2020-07-08 19:31:57,945 INFO  [io.quarkus] (main) Profile test activated. 
 2020-07-08 19:31:57,945 INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]
 Rodando teste com tag integração...

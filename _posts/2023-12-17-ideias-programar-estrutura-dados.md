@@ -162,7 +162,7 @@ Vocês conseguem fazer uma ligação para Clark. A guerra está extremamente fer
 # Dominação global
 Anos se passam. A guerra contra o povo toupeira acabou. Clark mudou de cidade para começar um novo trabalho como jornalista. Porém ele estava confiante de que a tia Namaria e o problema ficaria bem em suas mãos. O programa é líder de audiência matinal. Porém existe um entrave entre você e a dominação mundial: publicar seus achados.
 
-Você se lembra de ter lido em algum [blog](http://aleatorio.dev.br){:target="_blank"} que o GitHub é um lugar legal para armazenar o código. E você decide experimentar isso para divulgar o seu trabalho e dominar o mundo. 
+Você se lembra de ter lido em algum [blog](https://aleatorio.dev.br){:target="_blank"} que o GitHub é um lugar legal para armazenar o código. E você decide experimentar isso para divulgar o seu trabalho e dominar o mundo. 
 
 ```
 Adicione todos os códigos num repositório no github;

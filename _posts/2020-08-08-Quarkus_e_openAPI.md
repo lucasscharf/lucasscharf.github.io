@@ -124,7 +124,7 @@ Feito isso, basta apenas executar a aplicação com o comando:
 mvn quarkus:dev
 ```
 
-E está pronto. Temos nosso serviço de pé. Se acessarmos o endereço **http://localhost:8080/openapi** vamos ter o arquivo de descrição dos **endpoints** desse serviço. O arquivo tem mais ou menos essa cara:
+E está pronto. Temos nosso serviço de pé. Se acessarmos o endereço **https://localhost:8080/openapi** vamos ter o arquivo de descrição dos **endpoints** desse serviço. O arquivo tem mais ou menos essa cara:
 
 ```yml
 ---
@@ -219,7 +219,7 @@ import org.eclipse.microprofile.openapi.annotations.tags.Tag;
             name = "Fale com o Aleatório", //
             url = "https://github.com/lucasscharf")), //
     servers = { //
-        @Server(url = "http://localhost:8080")//
+        @Server(url = "https://localhost:8080")//
     }) //
 public class Descricao extends Application {
 }

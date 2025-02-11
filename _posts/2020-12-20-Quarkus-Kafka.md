@@ -177,7 +177,7 @@ Esse docker-compose.yml instância e configura um banco de dados, o kafka e o zo
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/71nxc1jpg0rj5vaea7r4.jpg)
 
-Depois de levantar o docker-compose (``docker-compose up`` no mesmo diretório que está o arquivo docker-compose.yml), levantar o projeto (``mvn quarkus:dev`` no diretório base do projeto), entrar na url http://localhost:8080/swagger-ui e fazer a cadastro de um bolo.
+Depois de levantar o docker-compose (``docker-compose up`` no mesmo diretório que está o arquivo docker-compose.yml), levantar o projeto (``mvn quarkus:dev`` no diretório base do projeto), entrar na url https://localhost:8080/swagger-ui e fazer a cadastro de um bolo.
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/ig2p7d8h6nhhmipdofu4.png)
 
