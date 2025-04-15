@@ -1,5 +1,5 @@
 ---
-title: Interpretação e Resumo sobre o capítulo 2 da sociedade do cançaso
+title: Interpretação e Resumo sobre o capítulo 2 da sociedade do cançasso
 categories: [Carreira]
 tags: [Resumo]
 ---
@@ -34,5 +34,6 @@ Nos liberamos das amarras externas do século XX para nos colocarmos sob uma pre
 
 # Conclusão
 Esse capítulo foi mais tranquilo de ler do que o anterior. Acho que estou pegando o jeito. Teve um trecho que eu não curti, porque eu fiquei com a sensação de que eu interpretei à revelia parte do texto sobre Nietzsche. No texto está escrito "Precisamente Nietzsche diria que aquele tipo humano está em vias de tornar-se realidade *en masse*; soberano não é o super-homem, mas o último homem, que apenas ainda trabalha" e tem uma fonte citada. Eu fui na fonte e não tem nenhuma referência a termos soberanos "em massa". Mais do que isso, a fonte citada diz que as pessoas foram até Zaratustra pedindo para serem transformados nesses soberanos e ele dizendo que não transformaria eles assim. 
+Pausa para refletir sobre a minha arrogância de querer apontar o erro num texto de um cara que estudou a vida inteira sobre o assunto, apenas porque eu não entendi direito as coisas. Desenvolvedor é mesmo uma raça estranha.
 
-Tirando essa parte que me deixou confuso, o capítulo é bem interessante e acho que fiz um trabalho legal para deixar as coisas mais claras.
+Tirando essa parte que me deixou confuso e me soou prepotente, o capítulo é bem interessante e acho que fiz um trabalho legal para deixar as coisas mais claras.
