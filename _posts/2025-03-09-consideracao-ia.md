@@ -1,7 +1,7 @@
 ---
 title: Considerações sobre o uso de IA
 categories: [Carreira]
-tags:
+tags: [Reflexões]
 ---
 
 # Introdução
@@ -24,7 +24,7 @@ Tudo isso para dizer que os modelos de LLM de agora ainda não estão maduros o 
 
 # Problemas de IA e escrita de código
 
-E é aí que entra um dos erros mais comuns no uso de IA: a crença cega nas respostas fornecidas. LLMs não são oráculos. Tudo o que geram precisa ser validado, revisado e contextualizado. O que parece uma resposta precisa pode ser um erro sutil, uma alucinação, um dado desatualizado ou qualquer outra abobriga.
+E é aí que entra um dos erros mais comuns no uso de IA: a crença cega nas respostas fornecidas. LLMs não são oráculos. Tudo o que geram precisa ser validado, revisado e contextualizado. O que parece uma resposta precisa pode ser um erro sutil, uma alucinação, um dado desatualizado ou qualquer outra abobrinha.
 
 Em especial, temos que tomar muito cuidado ao usar ferramentas como o copilot e cursor. Essa [issue de 2024](https://github.com/microsoft/vscode-copilot-release/issues/847) (duplicada dessa [issue de 2023](https://github.com/microsoft/vscode-copilot-release/issues/560)) apontava que o copilot estava usando dados até 2021. Isso quer dizer que, em 2024, a gente tinha um gap de 3 anos de inovação que não foi usada porque os modelos não sabiam que elas existiam. Digo mais, muitos modelos são treinados com cógido ruim, isso quer dizer que confiar cegamente no código gerado pelo modelo vai te levar a umas pérolas como essa daqui que o copilot me trouxe:
 
