@@ -85,7 +85,7 @@ Resumido tudo o que eu falei até agora. O novo, moderno e eficiente modelo GPT 
 Particularmente, tendo os resultados apresentados até agora, considero um absurdo e uma falta de profissionalismo aceitar as respostas geradas por modelos sem revisar o que foi feito. Dito isso, vamos então a formas que **eu** considero intero interessantes para utilizar os modelos de LLM e agentes para o nosso trabalho.
 
 ## Usar modelos que fornecem fontes dos dados ao pedir informações
-Para toda informação que for pedida num prompt, pedir as fontes e confirmar as fontes. O [perplexity.ai](perplexity.ai) é uma IA que já traz essas fontes mesmo sem você pedir.
+Para toda informação que for pedida num prompt, pedir as fontes e confirmar as fontes. O [perplexity.ai](https://www.perplexity.ai/) é uma IA que já traz essas fontes mesmo sem você pedir.
 
 É um processo menos eficiente e mais cansativo. Contudo essa é a única forma de garantir que seu trabalho não alucionou, não inventou informações e compreendeu corretamente as fontes utilizadas para fazer os textos.
 
