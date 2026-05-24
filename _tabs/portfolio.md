@@ -4,11 +4,11 @@ icon: fas fa-briefcase
 order: 6
 ---
 
-Essa página é uma coletânea dos trabalhos que produzi ou que participei ao longo do tempo. Tem coisa acadêmica, tem podcast, tem live coding e tem aulas. Reuni tudo aqui para ficar mais fácil compartilhar e também para eu mesmo conseguir encontrar quando precisar. Os assuntos se conversam bastante entre si: sistemas distribuídos, paralelismo, mensageria e LLM acabam se misturando no dia a dia.
+Essa página é uma coletânea dos trabalhos que produzi ou que participei ao longo do tempo. Tem coisa acadêmica, tem podcast, tem live coding, tem aulas e tem código. Reuni tudo aqui para ficar mais fácil compartilhar e também para eu mesmo conseguir encontrar quando precisar. Os assuntos se conversam bastante entre si: sistemas distribuídos, paralelismo, mensageria e LLM acabam se misturando no dia a dia.
 
 # Trabalhos acadêmicos
 
-## Dissertação de mestrado — UFSC (2024)
+## Dissertação de mestrado UFSC (2024)
 
 **Explorando paralelismo e desacoplamento no desenvolvimento de um serviço de log para aplicações utilizando replicação de máquina de estados**
 
@@ -23,6 +23,11 @@ Essa é minha dissertação de mestrado, defendida na UFSC. A ideia central foi 
 Artigo publicado no *12th Latin-American Symposium on Dependable and Secure Computing* (LADC '23), em coautoria com Luiz Gustavo C. Xavier e Odorico M. Mendizabal. Esse trabalho conversa diretamente com a dissertação, sendo um dos resultados publicados durante o mestrado. Aqui exploramos a junção dos modelos paralelo e particionado de replicação de máquina de estados para melhorar a performance de um serviço de log compartilhado. Para quem gosta de sistemas distribuídos, performance e desafios de concorrência, é uma leitura que vale a pena.
 
 [Acessar o artigo na ACM Digital Library](https://dl.acm.org/doi/abs/10.1145/3615366.3615422)
+
+### Repositórios relacionados ao mestrado
+
+- [`parallel-state-machine-replication-simulator`](https://github.com/lucasscharf/parallel-state-machine-replication-simulator): simulador que compara três formas de tratar replicação de máquina de estados (sem paralelismo, por grafos e por bitmaps), feito originalmente para a disciplina de Computação Paralela.
+- [`shared-logger-client`](https://github.com/lucasscharf/shared-logger-client): cliente Java do serviço de log compartilhado, parte do projeto que serviu de base para a dissertação e para o artigo do LADC '23.
 
 # Participações em podcasts e lives
 
@@ -61,3 +66,15 @@ Gravei uma série de aulas sobre threads em Java cobrindo desde o básico de con
 ## Aula 5
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/ebl_XVQlyQc" frameborder="0" allowfullscreen></iframe>
+
+# Projetos no GitHub
+
+## Projetos pessoais
+
+- [`url-shortener`](https://github.com/lucasscharf/url-shortener): encurtador de URL escrito em Rust como projeto de estudo. O foco está menos na regra de negócio e mais em explorar a linguagem, suas libs e diferentes abordagens.
+- [`samsung-watch-plex-client`](https://github.com/lucasscharf/samsung-watch-plex-client): cliente Plex para Samsung Galaxy Watch (Wear OS) feito como experimento de vibe coding com Claude Code. É um caso prático do que discuto nos posts sobre [uso saudável de LLMs](/posts/uso-saudavel-llm/) e [considerações sobre IA](/posts/consideracao-ia/).
+
+## Códigos do blog
+
+- [`blog-posts-code`](https://github.com/lucasscharf/blog-posts-code): exemplos de código dos posts publicados [aqui](https://dev.to/lucasscharf), úteis pra acompanhar quando o post traz trechos parciais.
+- [`lucasscharf.github.io`](https://github.com/lucasscharf/lucasscharf.github.io): sim, você pode estudar o código. Pode copiar, pode fazer o que quiser (só não pode comitar :v).
