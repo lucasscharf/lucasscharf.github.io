@@ -43,6 +43,12 @@ Uma live em que mostro, na prática, como integrar diferentes sistemas de mensag
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/Yt0ATbcWHSk" frameborder="0" allowfullscreen></iframe>
 
+## AI, Year 3 (War Room)
+
+Participação numa conversa sobre o terceiro ano da febre de IA: o que mudou, o que continua sendo hype e o que sobrou de útil no dia a dia de quem desenvolve. O papo conversa bastante com o que escrevo aqui no blog nos últimos tempos.
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/2CjRglECUhg" frameborder="0" allowfullscreen></iframe>
+
 # Série de aulas sobre threads em Java
 
 Gravei uma série de aulas sobre threads em Java cobrindo desde o básico de concorrência até detalhes mais avançados. É um assunto que se conecta diretamente com o que estudei no mestrado e com tudo que envolve paralelismo e sistemas concorrentes. Recomendo seguir a ordem dos vídeos para não se perder.
