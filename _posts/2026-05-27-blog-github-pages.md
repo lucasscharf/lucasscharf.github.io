@@ -60,7 +60,7 @@ Vale ler o arquivo inteiro com calma e as instruções do README do repositório
 
 # Passo 4: escrever um post
 
-Posts ficam na pasta `_posts/` e seguem o padrão de nome `YYYY-MM-DD-titulo-do-post.md`. Cada arquivo começa com um cabeçalho YAML chamado, que define metadados. Por exemplo:
+Posts ficam na pasta `_posts/` e seguem o padrão de nome `YYYY-MM-DD-titulo-do-post.md`. Cada arquivo começa com um cabeçalho YAML que define metadados. Por exemplo:
 
 ```markdown
 ---
