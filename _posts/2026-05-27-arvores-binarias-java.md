@@ -12,7 +12,7 @@ tags: [Java]
 
 Quando a gente começa a programar, começamos com estruturas de dados não hierárquicas. Lista, pilha e fila. Tudo bem comportadinho, um elemento atrás do outro. A árvore quebra essa ideia. Ao invés de cada elemento apontar para o próximo, cada elemento aponta para até dois filhos. Por isso o nome binária: no máximo dois filhos por elemento. Não é como se fosse algo que lembra uma árvore do mundo real, mas é o que tem para hoje. Sério, quem olharia para a imagem abaixo e diria "realmente parece uma árvore"?
 
-![Árvore genérica](/images/arvore-ge.png)
+![Árvore genérica](/images/arvore-generica.png)
 
 Cada bolinha nessa estrutura é chamada de nó. O nó mais de cima (que não tem nenhum risco apontado para ele) é chamado de raiz. Enquanto os nós de baixo (que nenhuma seta aponta) é chamado de folha. Dizemos que um nó é pai de outro quando sai uma seta apontando dele para outro nó.
 
