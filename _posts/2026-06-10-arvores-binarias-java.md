@@ -10,7 +10,7 @@ tags: [Java]
 
 # O que é uma árvore
 
-Quando a gente começa a programar, começamos com estruturas de dados não hierárquicas. Lista, pilha e fila. Tudo bem comportadinho, um elemento atrás do outro. A árvore quebra essa ideia. Ao invés de cada elemento apontar para o próximo, cada elemento aponta para até dois filhos. Por isso o nome binária: no máximo dois filhos por elemento. Não é como se fosse algo que lembra uma árvore do mundo real, mas é o que tem para hoje. Sério, quem olharia para a imagem abaixo e diria "realmente parece uma árvore"?
+Quando a gente começa a programar, começamos com estruturas de dados não hierárquicas. Lista, pilha e fila. Tudo bem comportadinho, um elemento atrás do outro. A árvore quebra essa ideia. Ao invés de cada elemento apontar para o próximo, cada elemento aponta seus filhos. Não é como se fosse algo que lembra uma árvore do mundo real, mas é o que tem para hoje. Sério, quem olharia para a imagem abaixo e diria "realmente parece uma árvore"?
 
 ![Árvore genérica](/images/arvore-generica.png)
 
