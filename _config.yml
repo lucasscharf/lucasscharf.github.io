@@ -89,7 +89,7 @@ avatar: ./images/java-chan.jpeg
 toc: false
 
 comments:
-  active: disqus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  provider: disqus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname: lucasscharf-github-io
