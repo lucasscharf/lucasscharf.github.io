@@ -1,5 +1,5 @@
 ---
-title: Como funciomam árvores binárias em Java
+title: Como funcionam árvores binárias em Java
 categories: [Java]
 tags: [Java]
 ---
